@@ -1,0 +1,32 @@
+name: Update Linux Gaming News
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Allows you to run it manually from GitHub anytime
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit changes back to the repo
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run data fetcher script
+        run: python update_news.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Auto-update RPCS3 news data.json'
+          file_pattern: data.json
