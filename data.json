@@ -2,9 +2,57 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-12T02:27:35.002536"
+    "updated_at": "2026-10-12T09:40:27.123595"
   },
   "data": [
+    {
+      "title": "Guide: What Steam Deck, Steam Machine, Steam Frame and SteamOS verified ratings mean",
+      "link": "https://www.gamingonlinux.com/guides/view/what-steam-deck-steam-machine-steam-frame-and-steamos-verified-ratings-mean",
+      "published": "Mon, 12 Oct 2026 09:03:07 +0000",
+      "snippet": "Confused by all the different compatibility ratings across Steam Deck, Steam Machine, Steam Frame and SteamOS? Here's a clear explainer for them in one place.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1799175260id29955gol.webp\" alt /></p><p>Read the full article on <a"
+    },
+    {
+      "title": "Pimax to improve Linux VR support, announces Crystal Pro headset and their own Steam Machine",
+      "link": "https://www.gamingonlinux.com/2026/10/pimax-to-improve-linux-vr-support-announces-crystal-pro-headset-and-their-own-steam-machine/",
+      "published": "Mon, 12 Oct 2026 08:28:47 +0000",
+      "snippet": "Pimax recently revealed a new high-end VR kit, along with their own version of a Steam Machine, and they plan better Linux support overall.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1426096447id29954gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www."
+    },
+    {
+      "title": "SEEDS - Echoes Beneath the Sands is an upcoming survival game about terraforming and restoring life",
+      "link": "https://www.gamingonlinux.com/2026/10/seeds-echoes-beneath-the-sands-is-an-upcoming-survival-game-about-terraforming-and-restoring-life/",
+      "published": "Mon, 12 Oct 2026 08:09:27 +0000",
+      "snippet": "Developer Against All Odds revealed SEEDS - Echoes Beneath the Sands, a very interesting sounding sandbox survival game about terraforming and creating life.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/453797832id29953gol.webp\" alt /></p><p>Read the full article on <a h"
+    },
+    {
+      "title": "ScummVM 2026.4 brings nearly 200 newly supported retro games",
+      "link": "https://www.gamingonlinux.com/2026/10/scummvm-2026-4-brings-nearly-200-newly-supported-retro-games/",
+      "published": "Mon, 12 Oct 2026 07:50:51 +0000",
+      "snippet": "ScummVM 2026.4.0 has released, bringing with it support for nearly 200 more retro games across 12 different game engines.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/scummvm.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/scummvm-2026-4"
+    },
+    {
+      "title": "Cardsharp has you play Blackjack in a dark room where you might lose a finger",
+      "link": "https://www.gamingonlinux.com/2026/10/cardsharp-has-you-play-blackjack-in-a-dark-room-where-you-might-lose-a-finger/",
+      "published": "Mon, 12 Oct 2026 07:44:14 +0000",
+      "snippet": "A demo for Cardsharp is available for you to try it early. Think Blackjack, except your five fingers are your health bar.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1579277598id29951gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/"
+    },
+    {
+      "title": "Design and customize your own space platform in the auto-battler NebulArena",
+      "link": "https://www.gamingonlinux.com/2026/10/design-and-customize-your-own-space-platform-in-the-auto-battler-nebularena/",
+      "published": "Mon, 12 Oct 2026 07:36:45 +0000",
+      "snippet": "Another demo worth checking out if you like autobattlers, NebulArena has you build up a space platform and watch the chaos.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/445804635id29950gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com"
+    },
+    {
+      "title": "runz is a top-down roguelite arena shooter where every bullet in your magazine matters",
+      "link": "https://www.gamingonlinux.com/2026/10/runz-is-a-top-down-roguelite-arena-shooter-where-every-bullet-in-your-magazine-matters/",
+      "published": "Mon, 12 Oct 2026 07:26:03 +0000",
+      "snippet": "Available with a demo now, runz is a top-down twin-stick shooter in the spirit of Brotato and others similar, but with a twist where your build is your gun mag.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/603398946id29949gol.webp\" alt /></p><p>Read the full article on <"
+    },
+    {
+      "title": "Brews & Kings is an upcoming city-builder about brewing",
+      "link": "https://www.gamingonlinux.com/2026/10/brews-kings-is-an-upcoming-city-builder-about-brewing/",
+      "published": "Mon, 12 Oct 2026 07:15:44 +0000",
+      "snippet": "A city builder about brewing. Grow grain and vines, scout the wilderness for pure water and rare ingredients, brew and ferment in your own cellars.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/60708798id29948gol.webp\" alt /></p><p>Read the full article on <a href=\"https:"
+    },
     {
       "title": "Frame of Suffering is like if Diablo was about mechs and I need it now",
       "link": "https://www.gamingonlinux.com/2026/10/frame-of-suffering-is-like-if-diablo-was-about-mechs-and-i-need-it-now/",
@@ -46,54 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/puzzling-resource-management-rpg-paradox-tower-has-a-demo-worth-trying/",
       "published": "Fri, 09 Oct 2026 09:26:35 +0000",
       "snippet": "Paradox Tower brings a clever mixture of puzzles and RPG mechanics about helping a witch find her way through a labyrinth tower.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1451037170id29941gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlin"
-    },
-    {
-      "title": "The creator of DEVOUR is back with co-op survival horror LIVING HELL",
-      "link": "https://www.gamingonlinux.com/2026/10/the-creator-of-devour-is-back-with-co-op-survival-horror-living-hell/",
-      "published": "Fri, 09 Oct 2026 08:54:29 +0000",
-      "snippet": "I'm not sure my heart will be able to manage LIVING HELL but it sure does look interesting from the developer of the popular DEVOUR.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1650860605id29939gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingo"
-    },
-    {
-      "title": "Get more top quality games for cheap in The Triple-i Initiative Showcase Bundle",
-      "link": "https://www.gamingonlinux.com/2026/10/get-more-top-quality-games-for-cheap-in-the-triple-i-initiative-showcase-bundle/",
-      "published": "Fri, 09 Oct 2026 07:57:30 +0000",
-      "snippet": "The Triple-i Initiative Showcase Bundle has arrived and with it you can fill up your Steam Library with even more interesting games.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1604365794id29938gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingo"
-    },
-    {
-      "title": "Check out the demo for Of Dice and Minions, a pixel-art dice-rolling auto-battler roguelite",
-      "link": "https://www.gamingonlinux.com/2026/10/check-out-the-demo-for-of-dice-and-minions-a-pixel-art-dice-rolling-auto-battler-roguelite/",
-      "published": "Fri, 09 Oct 2026 07:41:45 +0000",
-      "snippet": "Another demo that looks to be worthy of your time is Of Dice and Minions, a pixel-art dice-rolling auto-battler roguelite.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1671854629id29937gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com"
-    },
-    {
-      "title": "DXVK-Sarek 1.14.0 released for gaming on older GPUs",
-      "link": "https://www.gamingonlinux.com/2026/10/dxvk-sarek-1-14-0-released-for-gaming-on-older-gpus/",
-      "published": "Fri, 09 Oct 2026 07:28:41 +0000",
-      "snippet": "DXVK-Sarek version 1.14.0 has arrived, keeping Wine / Proton gaming alive for those of you with older GPUs that don't have modern Vulkan support.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/dxvk-sarek_gol2_31ee42bf.webp\" alt /></p><p>Read the full article on <a href=\"https://ww"
-    },
-    {
-      "title": "The awesome Deadly Days: Roadtrip has set an October 29 release date",
-      "link": "https://www.gamingonlinux.com/2026/10/the-awesome-deadly-days-roadtrip-has-set-an-october-29-release-date/",
-      "published": "Fri, 09 Oct 2026 07:16:24 +0000",
-      "snippet": "The brilliant bullet heaven inventory management zombie shooter Deadly Days: Roadtrip hits the big 1.0 on October 29th.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1876731532id29935gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/20"
-    },
-    {
-      "title": "SteamOS 0.4 for Steam Frame is out now with better power efficiency and battery lifetime",
-      "link": "https://www.gamingonlinux.com/2026/10/steamos-0-4-for-steam-frame-is-out-now-with-better-power-efficiency-and-battery-lifetime/",
-      "published": "Fri, 09 Oct 2026 07:05:58 +0000",
-      "snippet": "Valve just released a major stable update for all Steam Frame owners, bringing some great sounding improvements.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam-frame-in-box_gol2_098d19e6.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/"
-    },
-    {
-      "title": "OCTOPATH TRAVELER, OCTOPATH TRAVELER II, and NEO: The World Ends With You arrive on GOG",
-      "link": "https://www.gamingonlinux.com/2026/10/octopath-traveler-octopath-traveler-ii-and-neo-the-world-ends-with-you-arrive-on-gog/",
-      "published": "Thu, 08 Oct 2026 13:18:29 +0000",
-      "snippet": "Three more Square Enix games have today landed on DRM-free store GOG.com, and they're part of the GOG Preservation Program too.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/47077184id29933gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux."
-    },
-    {
-      "title": "Cloudbreaker review - Bullet Heaven meets Inventory Management",
-      "link": "https://www.gamingonlinux.com/2026/10/cloudbreaker-review-bullet-heaven-meets-inventory-management/",
-      "published": "Thu, 08 Oct 2026 12:12:45 +0000",
-      "snippet": "If you're like me and you can't get enough of bullet heaven survivor-likes, it's time to take a good look at Cloudbreaker with its inventory management.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1275324916id29924gol.webp\" alt /></p><p>Read the full article on <a href="
     }
   ]
 }
