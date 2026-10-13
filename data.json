@@ -2,14 +2,32 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-13T08:28:42.802291"
+    "updated_at": "2026-10-13T16:21:18.295132"
   },
   "data": [
+    {
+      "title": "Steam Frame - some early thoughts",
+      "link": "https://www.gamingonlinux.com/2026/10/steam-frame-some-early-thoughts/",
+      "published": "Tue, 13 Oct 2026 14:24:52 +0000",
+      "snippet": "GamingOnLinux has managed to acquire the SteamOS powered Steam Frame VR device, these are some initial thoughts now I've got it all set up.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1471962791id29940gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www."
+    },
+    {
+      "title": "Squadron 42 now has a Steam page and new trailer ahead of \"Q2 2027\" release",
+      "link": "https://www.gamingonlinux.com/2026/10/squadron-42-now-has-a-steam-page-and-new-trailer-ahead-of-q2-2027-release/",
+      "published": "Tue, 13 Oct 2026 12:17:05 +0000",
+      "snippet": "Cloud Imperium Games have put up a Steam page for Squadron 42, their cinematic single-player sci-fi adventure game set in the expansive Star Citizen universe.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1845361261id29963gol.webp\" alt /></p><p>Read the full article on <a"
+    },
+    {
+      "title": "Clean up a bloody aftermath to grow a terribly weird garden in Goreticulture",
+      "link": "https://www.gamingonlinux.com/2026/10/clean-up-a-bloody-aftermath-to-grow-a-terribly-weird-garden-in-goreticulture/",
+      "published": "Tue, 13 Oct 2026 08:20:21 +0000",
+      "snippet": "Goreticulture is a game about growing a visceral garden as you clean up a bloody aftermath.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1419076786id29962gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/clean-up-a-bloody-afte"
+    },
     {
       "title": "One More Flight is an upcoming psychological horror set aboard a doomed flight trapped in a time loop",
       "link": "https://www.gamingonlinux.com/2026/10/one-more-flight-is-an-upcoming-psychological-horror-set-aboard-a-doomed-flight-trapped-in-a-time-loop/",
       "published": "Tue, 13 Oct 2026 08:05:24 +0000",
-      "snippet": "This looks like it could be an interesting on. A psychological horror game set aboard a doomed flight trapped in a relentless time loop.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/564981723id29961gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gami"
+      "snippet": "This looks like it could be an interesting one. A psychological horror game set aboard a doomed flight trapped in a relentless time loop.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/564981723id29961gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gam"
     },
     {
       "title": "Pick up more games in the Cozy After Dark Showcase Humble Bundle",
@@ -76,24 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/design-and-customize-your-own-space-platform-in-the-auto-battler-nebularena/",
       "published": "Mon, 12 Oct 2026 07:36:45 +0000",
       "snippet": "Another demo worth checking out if you like autobattlers, NebulArena has you build up a space platform and watch the chaos.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/445804635id29950gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com"
-    },
-    {
-      "title": "runz is a top-down roguelite arena shooter where every bullet in your magazine matters",
-      "link": "https://www.gamingonlinux.com/2026/10/runz-is-a-top-down-roguelite-arena-shooter-where-every-bullet-in-your-magazine-matters/",
-      "published": "Mon, 12 Oct 2026 07:26:03 +0000",
-      "snippet": "Available with a demo now, runz is a top-down twin-stick shooter in the spirit of Brotato and others similar, but with a twist where your build is your gun mag.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/603398946id29949gol.webp\" alt /></p><p>Read the full article on <"
-    },
-    {
-      "title": "Brews & Kings is an upcoming city-builder about brewing",
-      "link": "https://www.gamingonlinux.com/2026/10/brews-kings-is-an-upcoming-city-builder-about-brewing/",
-      "published": "Mon, 12 Oct 2026 07:15:44 +0000",
-      "snippet": "A city builder about brewing. Grow grain and vines, scout the wilderness for pure water and rare ingredients, brew and ferment in your own cellars.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/60708798id29948gol.webp\" alt /></p><p>Read the full article on <a href=\"https:"
-    },
-    {
-      "title": "Frame of Suffering is like if Diablo was about mechs and I need it now",
-      "link": "https://www.gamingonlinux.com/2026/10/frame-of-suffering-is-like-if-diablo-was-about-mechs-and-i-need-it-now/",
-      "published": "Sat, 10 Oct 2026 08:07:43 +0000",
-      "snippet": "Frame of Suffering is an upcoming ARPG rogue-lite that combines Diablo with customizable mechs and I really do need it now.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1995794406id29947gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.co"
     }
   ]
 }
