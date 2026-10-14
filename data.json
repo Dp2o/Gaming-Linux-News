@@ -2,9 +2,57 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-14T05:26:06.653981"
+    "updated_at": "2026-10-14T10:29:39.920744"
   },
   "data": [
+    {
+      "title": "Plasma 6.8 is out as KDE celebrates 30 years",
+      "link": "https://www.gamingonlinux.com/2026/10/plasma-6-8-is-out-as-kde-celebrates-30-years/",
+      "published": "Wed, 14 Oct 2026 09:21:48 +0000",
+      "snippet": "It's officially KDE's 30th birthday, and with that they've given us a gift with Plasma 6.8 now available.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1993226327id29971gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/plasma-6"
+    },
+    {
+      "title": "CultGame is a cult simulator RPG set in a procedurally generated fantasy world with haunting ASCII art",
+      "link": "https://www.gamingonlinux.com/2026/10/cultgame-is-a-cult-simulator-rpg-set-in-a-procedurally-generated-fantasy-world-with-haunting-ascii-art/",
+      "published": "Wed, 14 Oct 2026 09:10:38 +0000",
+      "snippet": "One to stick on your list for testing out on Halloween, CultGame is a cult simulator RPG set in a procedurally generated fantasy world with haunting ASCII art.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1246855798id29970gol.webp\" alt /></p><p>Read the full article on <"
+    },
+    {
+      "title": "HUEMON takes the style of retro Pokemon and spins it with 5v5 battles",
+      "link": "https://www.gamingonlinux.com/2026/10/huemon-takes-the-style-of-retro-pokemon-and-spins-it-with-5v5-battles/",
+      "published": "Wed, 14 Oct 2026 08:40:08 +0000",
+      "snippet": "Another interesting demo to go and check out is HUEMON, it's styled very much like retro Pokemon but brings 5v5 tactical battles.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/459220293id29969gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlin"
+    },
+    {
+      "title": "Smash through hordes in the minimalist gladiator roguelite 'Mini Gladiators'",
+      "link": "https://www.gamingonlinux.com/2026/10/smash-through-hordes-in-the-minimalist-gladiator-roguelite-mini-gladiators/",
+      "published": "Wed, 14 Oct 2026 08:17:08 +0000",
+      "snippet": "Mini Gladiators is a minimalist gladiator roguelite with bullet-heaven combat and satisfying ragdoll physics. A demo is now available to try.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/11811809id29968gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www."
+    },
+    {
+      "title": "Facepunch are rethinking s&box since it's not doing well - it's going free to play",
+      "link": "https://www.gamingonlinux.com/2026/10/facepunch-are-rethinking-s-box-since-its-not-doing-well-its-going-free-to-play/",
+      "published": "Wed, 14 Oct 2026 08:02:52 +0000",
+      "snippet": "The sandbox game creation and game playing platform s&box from Garry's Mod and Rust developer Facepunch is going through a big rethink.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1265248051id29967gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gami"
+    },
+    {
+      "title": "Peekpal is an upcoming colour E-Paper Faceplate for the Steam Machine",
+      "link": "https://www.gamingonlinux.com/2026/10/peekpal-is-an-upcoming-colour-e-paper-faceplate-for-the-steam-machine/",
+      "published": "Wed, 14 Oct 2026 07:36:00 +0000",
+      "snippet": "The Steam Machine having a customizable Faceplate was a great idea, as we're beginning to see more fun creations like the Peekpal.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/875335085id29966gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonli"
+    },
+    {
+      "title": "A big Steam update brings the Big Art Mode, Screensaver, Steam Controller upgrades, Linux upgrades and more",
+      "link": "https://www.gamingonlinux.com/2026/10/a-big-steam-update-brings-the-big-art-mode-screensaver-steam-controller-upgrades-linux-upgrades-and-more/",
+      "published": "Wed, 14 Oct 2026 07:21:56 +0000",
+      "snippet": "A fresh stable Steam Client Update landed October 13th bringing with it some big new features, along with lots of bug fixes everywhere.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com"
+    },
+    {
+      "title": "Valve Index gets sunset with a discount on remaining stock",
+      "link": "https://www.gamingonlinux.com/2026/10/valve-index-gets-sunset-with-a-discount-on-remaining-stock/",
+      "published": "Wed, 14 Oct 2026 07:05:52 +0000",
+      "snippet": "Valve officially announced their Valve Index VR kit has been sunset, so they've discounted any remaining stock to get rid of them all.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/valve-index_gol2_5391542c.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingon"
+    },
     {
       "title": "Steam Frame - some early thoughts",
       "link": "https://www.gamingonlinux.com/2026/10/steam-frame-some-early-thoughts/",
@@ -46,54 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/rimworld-switching-from-unity-to-their-own-waylith-engine-and-a-new-game-was-teased/",
       "published": "Tue, 13 Oct 2026 07:12:44 +0000",
       "snippet": "Ludeon Studios announced a major change the the popular game RimWorld, as they're moving away from Unity to their own game engine - and a new game is coming.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1171797760id29958gol.webp\" alt /></p><p>Read the full article on <a "
-    },
-    {
-      "title": "Proton Experimental gets updated to fix a prefix corruption bug and more",
-      "link": "https://www.gamingonlinux.com/2026/10/proton-experimental-gets-updated-to-fix-a-prefix-corruption-bug-and-more/",
-      "published": "Tue, 13 Oct 2026 07:04:32 +0000",
-      "snippet": "A smaller update to Proton Experimental landed for October 12th, but one of the fixes is quite a major one (although a rare issue).<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1185026006id29957gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingon"
-    },
-    {
-      "title": "Bazzite Linux update for October 12 brings many more bug fixes",
-      "link": "https://www.gamingonlinux.com/2026/10/bazzite-linux-update-for-october-12-brings-many-more-bug-fixes/",
-      "published": "Tue, 13 Oct 2026 06:58:44 +0000",
-      "snippet": "The next smaller release of Bazzite Linux is out now, bringing with it bug fixes for various handhelds and more improvements.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/bazzite.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/bazzite-li"
-    },
-    {
-      "title": "Guide: What Steam Deck, Steam Machine, Steam Frame and SteamOS verified ratings mean",
-      "link": "https://www.gamingonlinux.com/guides/view/what-steam-deck-steam-machine-steam-frame-and-steamos-verified-ratings-mean",
-      "published": "Mon, 12 Oct 2026 09:03:07 +0000",
-      "snippet": "Confused by all the different compatibility ratings across Steam Deck, Steam Machine, Steam Frame and SteamOS? Here's a clear explainer for them in one place.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1799175260id29955gol.webp\" alt /></p><p>Read the full article on <a"
-    },
-    {
-      "title": "Pimax to improve Linux VR support, announces Crystal Pro headset and their own Steam Machine",
-      "link": "https://www.gamingonlinux.com/2026/10/pimax-to-improve-linux-vr-support-announces-crystal-pro-headset-and-their-own-steam-machine/",
-      "published": "Mon, 12 Oct 2026 08:28:47 +0000",
-      "snippet": "Pimax recently revealed a new high-end VR kit, along with their own version of a Steam Machine, and they plan better Linux support overall.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1426096447id29954gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www."
-    },
-    {
-      "title": "SEEDS - Echoes Beneath the Sands is an upcoming survival game about terraforming and restoring life",
-      "link": "https://www.gamingonlinux.com/2026/10/seeds-echoes-beneath-the-sands-is-an-upcoming-survival-game-about-terraforming-and-restoring-life/",
-      "published": "Mon, 12 Oct 2026 08:09:27 +0000",
-      "snippet": "Developer Against All Odds revealed SEEDS - Echoes Beneath the Sands, a very interesting sounding sandbox survival game about terraforming and creating life.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/453797832id29953gol.webp\" alt /></p><p>Read the full article on <a h"
-    },
-    {
-      "title": "ScummVM 2026.4 brings nearly 200 newly supported retro games",
-      "link": "https://www.gamingonlinux.com/2026/10/scummvm-2026-4-brings-nearly-200-newly-supported-retro-games/",
-      "published": "Mon, 12 Oct 2026 07:50:51 +0000",
-      "snippet": "ScummVM 2026.4.0 has released, bringing with it support for nearly 200 more retro games across 12 different game engines.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/scummvm.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/scummvm-2026-4"
-    },
-    {
-      "title": "Cardsharp has you play Blackjack in a dark room where you might lose a finger",
-      "link": "https://www.gamingonlinux.com/2026/10/cardsharp-has-you-play-blackjack-in-a-dark-room-where-you-might-lose-a-finger/",
-      "published": "Mon, 12 Oct 2026 07:44:14 +0000",
-      "snippet": "A demo for Cardsharp is available for you to try it early. Think Blackjack, except your five fingers are your health bar.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1579277598id29951gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/"
-    },
-    {
-      "title": "Design and customize your own space platform in the auto-battler NebulArena",
-      "link": "https://www.gamingonlinux.com/2026/10/design-and-customize-your-own-space-platform-in-the-auto-battler-nebularena/",
-      "published": "Mon, 12 Oct 2026 07:36:45 +0000",
-      "snippet": "Another demo worth checking out if you like autobattlers, NebulArena has you build up a space platform and watch the chaos.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/445804635id29950gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com"
     }
   ]
 }
