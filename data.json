@@ -2,9 +2,51 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-15T05:38:11.836851"
+    "updated_at": "2026-10-15T10:20:13.608661"
   },
   "data": [
+    {
+      "title": "New fighting game Poly Fighter combines roguelike features to build your fighter",
+      "link": "https://www.gamingonlinux.com/2026/10/new-fighting-game-poly-fighter-combines-roguelike-features-to-build-your-fighter/",
+      "published": "Thu, 15 Oct 2026 09:59:45 +0000",
+      "snippet": "Poly Fighter is a new Early Access fighting game designed to be for solo play, with you building up your own fighter with each win.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/891406036id29979gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonl"
+    },
+    {
+      "title": "Humble Bundle has two new bundles full of horror and factory-building games",
+      "link": "https://www.gamingonlinux.com/2026/10/humble-bundle-has-two-new-bundles-full-of-horror-and-factory-building-games/",
+      "published": "Thu, 15 Oct 2026 09:38:26 +0000",
+      "snippet": "Humble Bundle has launched two new game bundles with very different themes: one built around Halloween horror, and the other all about factories and automation.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2122555951id29978gol.webp\" alt /></p><p>Read the full article on "
+    },
+    {
+      "title": "Speed through strange retro worlds in the strategic roguelike racer Reality Drift demo",
+      "link": "https://www.gamingonlinux.com/2026/10/speed-through-strange-retro-worlds-in-the-strategic-roguelike-racer-reality-drift-demo/",
+      "published": "Thu, 15 Oct 2026 09:14:10 +0000",
+      "snippet": "Available with a demo now - Reality Drift is a retro strategic roguelike racing game where you battle through a series of strange worlds.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1606681589id29977gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.ga"
+    },
+    {
+      "title": "Ashes of the Singularity II gets a November release date",
+      "link": "https://www.gamingonlinux.com/2026/10/ashes-of-the-singularity-ii-gets-a-november-release-date/",
+      "published": "Thu, 15 Oct 2026 08:55:57 +0000",
+      "snippet": "Set to arrive on November 10th, Ashes of the Singularity II will bring a fresh next-generation grand-scale RTS to your systems.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1252444662id29976gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinu"
+    },
+    {
+      "title": "Bazzite Linux continues growing - now with over 100K Weekly Active Devices",
+      "link": "https://www.gamingonlinux.com/2026/10/bazzite-linux-continues-growing-now-with-over-100k-weekly-active-devices/",
+      "published": "Thu, 15 Oct 2026 08:00:57 +0000",
+      "snippet": "Bazzite Linux continues to be a popular choice for a SteamOS-like on handhelds, TV PCs and for desktops too with a new milestone hit.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/bazzite.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/ba"
+    },
+    {
+      "title": "GE-Proton 11-9 arrives with improvements for Video Playback, Wayland, Controllers and more",
+      "link": "https://www.gamingonlinux.com/2026/10/ge-proton-11-9-arrives-with-improvements-for-video-playback-wayland-controllers-and-more/",
+      "published": "Thu, 15 Oct 2026 07:31:32 +0000",
+      "snippet": "GE-Proton 11-9 (and GE-Proton 11-8 just before it) have been released to bring more improvements for Windows games on SteamOS / Linux.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/ge-proton_gol2.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2"
+    },
+    {
+      "title": "Framework expands funding support for CachyOS Linux",
+      "link": "https://www.gamingonlinux.com/2026/10/framework-expands-funding-support-for-cachyos-linux/",
+      "published": "Thu, 15 Oct 2026 07:18:50 +0000",
+      "snippet": "The very popular Arch-based Linux distribution CachyOS is growing up, with Framework expanding their direct funding support of it.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/669656273id29973gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonli"
+    },
     {
       "title": "Epic Games Launcher preview arrives - Native Linux support, Fortnite for Linux is coming and upgraded Easy Anti-Cheat",
       "link": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-arrives-native-linux-support-fortnite-for-linux-is-coming-and-upgraded-easy-anti-cheat/",
@@ -52,48 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/a-big-steam-update-brings-the-big-art-mode-screensaver-steam-controller-upgrades-linux-upgrades-and-more/",
       "published": "Wed, 14 Oct 2026 07:21:56 +0000",
       "snippet": "A fresh stable Steam Client Update landed October 13th bringing with it some big new features, along with lots of bug fixes everywhere.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com"
-    },
-    {
-      "title": "Valve Index gets sunset with a discount on remaining stock",
-      "link": "https://www.gamingonlinux.com/2026/10/valve-index-gets-sunset-with-a-discount-on-remaining-stock/",
-      "published": "Wed, 14 Oct 2026 07:05:52 +0000",
-      "snippet": "Valve officially announced their Valve Index VR kit has been sunset, so they've discounted any remaining stock to get rid of them all.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/valve-index_gol2_5391542c.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingon"
-    },
-    {
-      "title": "Steam Frame - some early thoughts",
-      "link": "https://www.gamingonlinux.com/2026/10/steam-frame-some-early-thoughts/",
-      "published": "Tue, 13 Oct 2026 14:24:52 +0000",
-      "snippet": "GamingOnLinux has managed to acquire the SteamOS powered Steam Frame VR device, these are some initial thoughts now I've got it all set up.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1471962791id29940gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www."
-    },
-    {
-      "title": "Squadron 42 now has a Steam page and new trailer ahead of \"Q2 2027\" release",
-      "link": "https://www.gamingonlinux.com/2026/10/squadron-42-now-has-a-steam-page-and-new-trailer-ahead-of-q2-2027-release/",
-      "published": "Tue, 13 Oct 2026 12:17:05 +0000",
-      "snippet": "Cloud Imperium Games have put up a Steam page for Squadron 42, their cinematic single-player sci-fi adventure game set in the expansive Star Citizen universe.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1845361261id29963gol.webp\" alt /></p><p>Read the full article on <a"
-    },
-    {
-      "title": "Clean up a bloody aftermath to grow a terribly weird garden in Goreticulture",
-      "link": "https://www.gamingonlinux.com/2026/10/clean-up-a-bloody-aftermath-to-grow-a-terribly-weird-garden-in-goreticulture/",
-      "published": "Tue, 13 Oct 2026 08:20:21 +0000",
-      "snippet": "Goreticulture is a game about growing a visceral garden as you clean up a bloody aftermath.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1419076786id29962gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/clean-up-a-bloody-afte"
-    },
-    {
-      "title": "One More Flight is an upcoming psychological horror set aboard a doomed flight trapped in a time loop",
-      "link": "https://www.gamingonlinux.com/2026/10/one-more-flight-is-an-upcoming-psychological-horror-set-aboard-a-doomed-flight-trapped-in-a-time-loop/",
-      "published": "Tue, 13 Oct 2026 08:05:24 +0000",
-      "snippet": "This looks like it could be an interesting one. A psychological horror game set aboard a doomed flight trapped in a relentless time loop.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/564981723id29961gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gam"
-    },
-    {
-      "title": "Pick up more games in the Cozy After Dark Showcase Humble Bundle",
-      "link": "https://www.gamingonlinux.com/2026/10/pick-up-more-games-in-the-cozy-after-dark-showcase-humble-bundle/",
-      "published": "Tue, 13 Oct 2026 07:50:50 +0000",
-      "snippet": "More cheap games to add to your collection? Yes! The Cozy After Dark Showcase Humble Bundle is live with 10 games available in it.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1236317573id29960gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonl"
-    },
-    {
-      "title": "Hytale Chapter I: Out of the Breach has arrived as a massive update",
-      "link": "https://www.gamingonlinux.com/2026/10/hytale-chapter-i-out-of-the-breach-has-arrived-as-a-massive-update/",
-      "published": "Tue, 13 Oct 2026 07:40:20 +0000",
-      "snippet": "Hytale Chapter I: Out of the Breach is out now bringing with it a lot of new content, along with a whole new ability system.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/810067562id29959gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.co"
     }
   ]
 }
