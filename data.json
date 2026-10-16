@@ -2,9 +2,57 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-16T05:04:14.020433"
+    "updated_at": "2026-10-16T09:51:00.652751"
   },
   "data": [
+    {
+      "title": "Here's the Top Steam Releases of September, 2026 along with compatibility ratings",
+      "link": "https://www.gamingonlinux.com/2026/10/heres-the-top-steam-releases-of-september-2026-along-with-compatibility-ratings/",
+      "published": "Fri, 16 Oct 2026 09:10:24 +0000",
+      "snippet": "Valve released an overview of the Top Steam Releases of September, 2026 - here's what's been popular and what SteamOS / Linux compatibility to expect.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.ga"
+    },
+    {
+      "title": "The Fallout inspired ATOM RPG returns with a Plague Island DLC and major update",
+      "link": "https://www.gamingonlinux.com/2026/10/the-fallout-inspired-atom-rpg-returns-with-a-plague-island-dlc-and-major-update/",
+      "published": "Fri, 16 Oct 2026 08:13:46 +0000",
+      "snippet": "Released back in 2018, ATOM RPG: Post-apocalyptic indie game is a classic Fallout-like and the developers just gave it a nice upgrade and DLC.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/283599912id29988gol.webp\" alt /></p><p>Read the full article on <a href=\"https://ww"
+    },
+    {
+      "title": "Caves of Qud: Diaspora is coming December 9",
+      "link": "https://www.gamingonlinux.com/2026/10/caves-of-qud-diaspora-is-coming-december-9/",
+      "published": "Fri, 16 Oct 2026 07:51:03 +0000",
+      "snippet": "Caves of Qud: Diaspora is the first expansion for the incredible roguelike, coming December 9th in Early Access.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1416037978id29987gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/c"
+    },
+    {
+      "title": "Get some spooky games in the Digiphile Orcatober Aquatic Horrors Bundle",
+      "link": "https://www.gamingonlinux.com/2026/10/get-some-spooky-games-in-the-digiphile-orcatober-aquatic-horrors-bundle/",
+      "published": "Fri, 16 Oct 2026 07:40:36 +0000",
+      "snippet": "Digiphile (former Humble Bundler staff) just launched their new Orcatober Aquatic Horrors Bundle, with some fresh games to get spooked with.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1524229397id29986gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www"
+    },
+    {
+      "title": "BRUTAL, the framework behind RimWorld's Waylith engine, releases its source code",
+      "link": "https://www.gamingonlinux.com/2026/10/brutal-the-framework-behind-rimworlds-waylith-engine-releases-its-source-code/",
+      "published": "Fri, 16 Oct 2026 07:32:05 +0000",
+      "snippet": "With the news recently about RimWorld dropping Unity for their own game engine, we now have a little more info on the tech behind it called BRUTAL.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/799372588id29985gol.webp\" alt /></p><p>Read the full article on <a href=\"https"
+    },
+    {
+      "title": "Proton Experimental for October 15 has fixes for ARC Raiders, C&C Red Alert, Counterstike and The Aftermath",
+      "link": "https://www.gamingonlinux.com/2026/10/proton-experimental-for-october-15-has-fixes-for-arc-raiders-c-c-red-alert-counterstike-and-the-aftermath/",
+      "published": "Fri, 16 Oct 2026 07:15:59 +0000",
+      "snippet": "Valve launched the latest update for Proton Experimental to fix up more issues found with Windows games running on SteamOS / Linux.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/555355009id29984gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonl"
+    },
+    {
+      "title": "SteamOS 0.5.6 Beta for Steam Frame makes adding apk files simpler",
+      "link": "https://www.gamingonlinux.com/2026/10/steamos-0-5-6-beta-for-steam-frame-makes-adding-apk-files-simpler/",
+      "published": "Fri, 16 Oct 2026 06:59:47 +0000",
+      "snippet": "Valve just released SteamOS 0.5.6 Beta and a Steam Client Update for the Steam Frame - here's all the changes.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam-frame-eye_gol2_2fe88a5d.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/st"
+    },
+    {
+      "title": "Steam Beta for October 15 brings a 64bit Linux client, Achievement Sets and more",
+      "link": "https://www.gamingonlinux.com/2026/10/steam-beta-for-october-15-brings-a-64bit-linux-client-achievement-sets-and-more/",
+      "published": "Fri, 16 Oct 2026 06:48:25 +0000",
+      "snippet": "Another big new Steam Beta release for all platforms has arrived - bringing with it a 64bit Linux client, and a fancy Achievement Sets system.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/44726068id29982gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www"
+    },
     {
       "title": "The Elder Scrolls IV: Oblivion and Ghostwire: Tokyo enter the GOG Preservation Program",
       "link": "https://www.gamingonlinux.com/2026/10/the-elder-scrolls-iv-oblivion-and-ghostwire-tokyo-enter-the-gog-preservation-program/",
@@ -46,54 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/bazzite-linux-continues-growing-now-with-over-100k-weekly-active-devices/",
       "published": "Thu, 15 Oct 2026 08:00:57 +0000",
       "snippet": "Bazzite Linux continues to be a popular choice for a SteamOS-like on handhelds, TV PCs and for desktops too with a new milestone hit.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/bazzite.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/ba"
-    },
-    {
-      "title": "GE-Proton 11-9 arrives with improvements for Video Playback, Wayland, Controllers and more",
-      "link": "https://www.gamingonlinux.com/2026/10/ge-proton-11-9-arrives-with-improvements-for-video-playback-wayland-controllers-and-more/",
-      "published": "Thu, 15 Oct 2026 07:31:32 +0000",
-      "snippet": "GE-Proton 11-9 (and GE-Proton 11-8 just before it) have been released to bring more improvements for Windows games on SteamOS / Linux.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/ge-proton_gol2.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2"
-    },
-    {
-      "title": "Framework expands funding support for CachyOS Linux",
-      "link": "https://www.gamingonlinux.com/2026/10/framework-expands-funding-support-for-cachyos-linux/",
-      "published": "Thu, 15 Oct 2026 07:18:50 +0000",
-      "snippet": "The very popular Arch-based Linux distribution CachyOS is growing up, with Framework expanding their direct funding support of it.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/669656273id29973gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonli"
-    },
-    {
-      "title": "Epic Games Launcher preview arrives - Native Linux support, Fortnite for Linux is coming and upgraded Easy Anti-Cheat",
-      "link": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-arrives-native-linux-support-fortnite-for-linux-is-coming-and-upgraded-easy-anti-cheat/",
-      "published": "Wed, 14 Oct 2026 14:19:21 +0000",
-      "snippet": "Epic Games have announced their brand new Epic Games Launcher refresh has a Preview available, along with Native Linux support and Fortnite is coming to Linux.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/113751237id29972gol.webp\" alt /></p><p>Read the full article on <a"
-    },
-    {
-      "title": "Plasma 6.8 is out as KDE celebrates 30 years",
-      "link": "https://www.gamingonlinux.com/2026/10/plasma-6-8-is-out-as-kde-celebrates-30-years/",
-      "published": "Wed, 14 Oct 2026 09:21:48 +0000",
-      "snippet": "It's officially KDE's 30th birthday, and with that they've given us a gift with Plasma 6.8 now available.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1993226327id29971gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/plasma-6"
-    },
-    {
-      "title": "CultGame is a cult simulator RPG set in a procedurally generated fantasy world with haunting ASCII art",
-      "link": "https://www.gamingonlinux.com/2026/10/cultgame-is-a-cult-simulator-rpg-set-in-a-procedurally-generated-fantasy-world-with-haunting-ascii-art/",
-      "published": "Wed, 14 Oct 2026 09:10:38 +0000",
-      "snippet": "One to stick on your list for testing out on Halloween, CultGame is a cult simulator RPG set in a procedurally generated fantasy world with haunting ASCII art.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1246855798id29970gol.webp\" alt /></p><p>Read the full article on <"
-    },
-    {
-      "title": "HUEMON takes the style of retro Pokemon and spins it with 5v5 battles",
-      "link": "https://www.gamingonlinux.com/2026/10/huemon-takes-the-style-of-retro-pokemon-and-spins-it-with-5v5-battles/",
-      "published": "Wed, 14 Oct 2026 08:40:08 +0000",
-      "snippet": "Another interesting demo to go and check out is HUEMON, it's styled very much like retro Pokemon but brings 5v5 tactical battles.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/459220293id29969gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlin"
-    },
-    {
-      "title": "Smash through hordes in the minimalist gladiator roguelite 'Mini Gladiators'",
-      "link": "https://www.gamingonlinux.com/2026/10/smash-through-hordes-in-the-minimalist-gladiator-roguelite-mini-gladiators/",
-      "published": "Wed, 14 Oct 2026 08:17:08 +0000",
-      "snippet": "Mini Gladiators is a minimalist gladiator roguelite with bullet-heaven combat and satisfying ragdoll physics. A demo is now available to try.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/11811809id29968gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www."
-    },
-    {
-      "title": "Facepunch are rethinking s&box since it's not doing well - it's going free to play",
-      "link": "https://www.gamingonlinux.com/2026/10/facepunch-are-rethinking-s-box-since-its-not-doing-well-its-going-free-to-play/",
-      "published": "Wed, 14 Oct 2026 08:02:52 +0000",
-      "snippet": "The sandbox game creation and game playing platform s&box from Garry's Mod and Rust developer Facepunch is going through a big rethink.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1265248051id29967gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gami"
     }
   ]
 }
