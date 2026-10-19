@@ -2,9 +2,27 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-19T01:46:54.824797"
+    "updated_at": "2026-10-19T07:25:45.514435"
   },
   "data": [
+    {
+      "title": "Hot Wax is an inventive new take on classic falling block puzzlers",
+      "link": "https://www.gamingonlinux.com/2026/10/hot-wax-is-an-inventive-new-take-on-classic-falling-block-puzzlers/",
+      "published": "Mon, 19 Oct 2026 07:17:51 +0000",
+      "snippet": "Move over Tetris, it's time for some Hot Wax - an inventive new take on classic falling block puzzlers.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1488419444id29998gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/hot-wax-is"
+    },
+    {
+      "title": "Proton-CachyOS 11.0-20261014, DWProton 11.0-15 and GE-Proton 11-10 released",
+      "link": "https://www.gamingonlinux.com/2026/10/proton-cachyos-11-0-20261014-dwproton-11-0-15-and-ge-proton-11-10-released/",
+      "published": "Mon, 19 Oct 2026 07:04:35 +0000",
+      "snippet": "A triple helping of community Proton builds to report on for you today with Proton-CachyOS 11.0-20261014, DWProton 11.0-15 and GE-Proton 11-10 released.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/proton.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonli"
+    },
+    {
+      "title": "Linux kernel 7.3 is out with some nice improvements for gaming",
+      "link": "https://www.gamingonlinux.com/2026/10/linux-kernel-7-3-is-out-with-some-nice-improvements-for-gaming/",
+      "published": "Mon, 19 Oct 2026 06:49:37 +0000",
+      "snippet": "Linux kernel 7.3 has officially been released, bringing with it plenty of improvements for Linux gaming.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/defaulttagline.png\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/linux-kernel-7-3-is-out-"
+    },
     {
       "title": "Valve fix Zero Company crashing on Steam Machine with the latest major game update",
       "link": "https://www.gamingonlinux.com/2026/10/valve-fix-zero-company-crashing-on-steam-machine-with-the-latest-major-game-update/",
@@ -76,24 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/proton-experimental-for-october-15-has-fixes-for-arc-raiders-c-c-red-alert-counterstrike-and-the-aftermath/",
       "published": "Fri, 16 Oct 2026 07:15:59 +0000",
       "snippet": "Valve launched the latest update for Proton Experimental to fix up more issues found with Windows games running on SteamOS / Linux.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/555355009id29984gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonl"
-    },
-    {
-      "title": "SteamOS 0.5.6 Beta for Steam Frame makes adding apk files simpler",
-      "link": "https://www.gamingonlinux.com/2026/10/steamos-0-5-6-beta-for-steam-frame-makes-adding-apk-files-simpler/",
-      "published": "Fri, 16 Oct 2026 06:59:47 +0000",
-      "snippet": "Valve just released SteamOS 0.5.6 Beta and a Steam Client Update for the Steam Frame - here's all the changes.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam-frame-eye_gol2_2fe88a5d.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/st"
-    },
-    {
-      "title": "Steam Beta for October 15 brings a 64bit Linux client, Achievement Sets and more",
-      "link": "https://www.gamingonlinux.com/2026/10/steam-beta-for-october-15-brings-a-64bit-linux-client-achievement-sets-and-more/",
-      "published": "Fri, 16 Oct 2026 06:48:25 +0000",
-      "snippet": "Another big new Steam Beta release for all platforms has arrived - bringing with it a 64bit Linux client, and a fancy Achievement Sets system.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/44726068id29982gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www"
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion and Ghostwire: Tokyo enter the GOG Preservation Program",
-      "link": "https://www.gamingonlinux.com/2026/10/the-elder-scrolls-iv-oblivion-and-ghostwire-tokyo-enter-the-gog-preservation-program/",
-      "published": "Thu, 15 Oct 2026 13:36:14 +0000",
-      "snippet": "The GOG Preservation Program has expanded to include another two fun games with The Elder Scrolls IV: Oblivion and Ghostwire: Tokyo.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/289591163id29981gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingon"
     }
   ]
 }
