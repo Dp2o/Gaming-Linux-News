@@ -2,9 +2,33 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-20T03:53:35.461715"
+    "updated_at": "2026-10-20T09:15:15.680000"
   },
   "data": [
+    {
+      "title": "Dark first-person fishing adventure DREADMOOR looks awesome, arrives November 9",
+      "link": "https://www.gamingonlinux.com/2026/10/dark-first-person-fishing-adventure-dreadmoor-looks-awesome-arrives-november-9/",
+      "published": "Tue, 20 Oct 2026 08:14:50 +0000",
+      "snippet": "DREADMOOR is probably one of the most interesting looking fishing games ever - with a dark post-apocalyptic world.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1581766080id30009gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10"
+    },
+    {
+      "title": "GE-Proton 11-11 released to fix more issues with Windows games on SteamOS / Linux",
+      "link": "https://www.gamingonlinux.com/2026/10/ge-proton-11-11-released-to-fix-more-issues-with-windows-games-on-steamos-linux/",
+      "published": "Tue, 20 Oct 2026 07:36:53 +0000",
+      "snippet": "As is tradition, a new release of GE-Proton came with issues and so another hotfix is out with GE-Proton 11-11.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/ge-proton_gol2.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/ge-proton-11-11-"
+    },
+    {
+      "title": "Intel submits code to Proton to improve XeSS to use the fast upscaler XMX",
+      "link": "https://www.gamingonlinux.com/2026/10/intel-submits-code-to-proton-to-improve-xess-to-use-the-fast-upscaler-xmx/",
+      "published": "Tue, 20 Oct 2026 07:30:05 +0000",
+      "snippet": "Looks like Proton with Intel XeSS is set for some improvements, with Intel submitting code directly to Valve.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/intel.png\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/intel-submits-code-to-proton"
+    },
+    {
+      "title": "Steam Next Fest Oct 2026 is live with thousands of demos",
+      "link": "https://www.gamingonlinux.com/2026/10/steam-next-fest-oct-2026-is-live-with-thousands-of-demos/",
+      "published": "Tue, 20 Oct 2026 07:14:30 +0000",
+      "snippet": "Steam Next Fest Oct 2026 has arrived and with it - there's multiple thousands of demos included.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1112808637id30006gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/steam-next-fest-o"
+    },
     {
       "title": "Trailblazers: Into the March shows off its unique blend of walking colony sim in a new demo",
       "link": "https://www.gamingonlinux.com/2026/10/trailblazers-into-the-march-shows-off-its-unique-blend-of-walking-colony-sim-in-a-new-demo/",
@@ -70,30 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/valve-fix-zero-company-crashing-on-steam-machine-with-the-latest-major-game-update/",
       "published": "Sat, 17 Oct 2026 07:34:56 +0000",
       "snippet": "Zero Company recently had a major upgrade, with it crashing on Steam Machine and probably other SteamOS / Linux systems - which Valve have solved.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1142594432id29995gol.webp\" alt /></p><p>Read the full article on <a href=\"https"
-    },
-    {
-      "title": "Steam Client Beta for October 16 brings another round of startup performance improvements",
-      "link": "https://www.gamingonlinux.com/2026/10/steam-client-beta-for-october-16-brings-another-round-of-startup-performance-improvements/",
-      "published": "Sat, 17 Oct 2026 07:19:40 +0000",
-      "snippet": "I do love a bit of competition between stores don't you? Valve's latest Steam Client Beta for October 16th brings more speed.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/s"
-    },
-    {
-      "title": "SteamOS 3.9.3 Beta arrives with improved support for Steam Frame wireless adapter",
-      "link": "https://www.gamingonlinux.com/2026/10/steamos-3-9-3-beta-arrives-with-improved-support-for-steam-frame-wireless-adapter/",
-      "published": "Sat, 17 Oct 2026 07:14:23 +0000",
-      "snippet": "Valve released SteamOS 3.9.3 Beta with another set of upgrades, and now the Steam Frame should connect better with the Steam Machine.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp\" alt /></p><p>Read the full article on <a href=\"htt"
-    },
-    {
-      "title": "Wine 11.20 brings more improvements for ARM64EC, XML validation and CDROMs",
-      "link": "https://www.gamingonlinux.com/2026/10/wine-11-20-brings-more-improvements-for-arm64ec-xml-validation-and-cdroms/",
-      "published": "Sat, 17 Oct 2026 07:09:09 +0000",
-      "snippet": "The Wine 11.20 development release is out now bringing another set of improvements for running Windows apps / games on SteamOS / Linux.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/202"
-    },
-    {
-      "title": "The impressive sci-fi squad tactics game 'Archrebel Tactics' gets a fresh demo",
-      "link": "https://www.gamingonlinux.com/2026/10/the-impressive-sci-fi-squad-tactics-game-archrebel-tactics-gets-a-fresh-demo/",
-      "published": "Fri, 16 Oct 2026 12:16:00 +0000",
-      "snippet": "Inspired by Rebelstar, Laser Squad, and the original X-COM - Archrebel Tactics is one you definitely need to try with a big brand new demo.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1978438452id29991gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www."
     }
   ]
 }
