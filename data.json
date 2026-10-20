@@ -2,9 +2,15 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-20T14:25:57.777219"
+    "updated_at": "2026-10-20T18:38:03.218395"
   },
   "data": [
+    {
+      "title": "AMD FSR Upscaling 4.1 expands support to older Desktops, Laptops, Handhelds, Consoles and Vulkan",
+      "link": "https://www.gamingonlinux.com/2026/10/amd-fsr-upscaling-4-1-expands-support-to-older-desktops-laptops-handhelds-consoles-and-vulkan/",
+      "published": "Tue, 20 Oct 2026 15:40:30 +0000",
+      "snippet": "Many asked for this and AMD have finally delivered - today they announced AMD FSR Upscaling 4.1 support has expanded to older hardware.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/325611419id30018gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamin"
+    },
     {
       "title": "Here's the highlights from the recent 2026 Out of Bounds Showcase",
       "link": "https://www.gamingonlinux.com/2026/10/heres-the-highlights-from-the-recent-2026-out-of-bounds-showcase/",
@@ -88,12 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/try-the-demo-for-the-mystery-of-oak-island-a-point-and-click-mystery-thriller-from-visionaire-studio/",
       "published": "Mon, 19 Oct 2026 12:28:24 +0000",
       "snippet": "The Mystery of Oak Island is a passion project from Visionaire Studio, who make the popular point and click game engine.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/233153950id30003gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/20"
-    },
-    {
-      "title": "Dungeonbound is a unique dungeon crawler blending in auto-battlers, incrementals and inventory management",
-      "link": "https://www.gamingonlinux.com/2026/10/dungeonbound-is-a-unique-dungeon-crawler-blending-in-auto-battlers-incrementals-and-inventory-management/",
-      "published": "Mon, 19 Oct 2026 09:02:02 +0000",
-      "snippet": "Dungeonbound is an upcoming first-person auto-battler dungeon crawler with some fun ideas and a mixture of modes that change how you play.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1576711309id30002gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.g"
     }
   ]
 }
