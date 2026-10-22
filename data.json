@@ -2,9 +2,57 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-22T05:50:16.697689"
+    "updated_at": "2026-10-22T11:20:14.688080"
   },
   "data": [
+    {
+      "title": "Cyberpunk 2077 Edgerunners update brings improved modding, better HDR, new content and more",
+      "link": "https://www.gamingonlinux.com/2026/10/cyberpunk-2077-edgerunners-update-brings-improved-modding-better-hdr-new-content-and-more/",
+      "published": "Thu, 22 Oct 2026 10:12:54 +0000",
+      "snippet": "CD PROJEKT RED have released another major free update for Cyberpunk 2077 adding new content from the Anime, along with other tech upgrades.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/961085677id30036gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www."
+    },
+    {
+      "title": "Another set of 15 demos to try in Steam Next Fest - October 2026 edition",
+      "link": "https://www.gamingonlinux.com/2026/10/another-set-of-15-demos-to-try-in-steam-next-fest-october-2026-edition/",
+      "published": "Thu, 22 Oct 2026 09:02:50 +0000",
+      "snippet": "Another chance for you to find your next favourite, with our second set of demo highlights from Steam Next Fest - October 2026 edition.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1514690851id30033gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gami"
+    },
+    {
+      "title": "Warhammer 40,000: Dawn of War IV has an exciting new gameplay overview trailer",
+      "link": "https://www.gamingonlinux.com/2026/10/warhammer-40-000-dawn-of-war-iv-has-an-exciting-new-gameplay-overview-trailer/",
+      "published": "Thu, 22 Oct 2026 08:46:10 +0000",
+      "snippet": "We've got another close look at Warhammer 40,000: Dawn of War IV ahead of the December release, with an impressive new trailer.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1950257685id30035gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinu"
+    },
+    {
+      "title": "Serious Sam: The Third Encounter gets teased by Croteam and Devolver Digital",
+      "link": "https://www.gamingonlinux.com/2026/10/serious-sam-the-third-encounter-gets-teased-by-croteam-and-devolver-digital/",
+      "published": "Thu, 22 Oct 2026 08:28:29 +0000",
+      "snippet": "Back for another helping of ridiculous action, Croteam and Devolver Digital have revealed Serious Sam: The Third Encounter.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/472112038id30034gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com"
+    },
+    {
+      "title": "Epic Games Launcher Preview is slowly becoming actually usable on Linux",
+      "link": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-is-slowly-becoming-actually-usable-on-linux/",
+      "published": "Thu, 22 Oct 2026 07:24:54 +0000",
+      "snippet": "Epic Games recently announced a new in-development preview of the Epic Games Launcher, which has Linux support and recent updates have made it not so crap.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/231612707id30032gol.webp\" alt /></p><p>Read the full article on <a hre"
+    },
+    {
+      "title": "SteamOS 3.9.4 Beta brings updates for security, hibernation and regression fixes",
+      "link": "https://www.gamingonlinux.com/2026/10/steamos-3-9-4-beta-brings-updates-for-security-hibernation-and-regression-fixes/",
+      "published": "Thu, 22 Oct 2026 07:10:57 +0000",
+      "snippet": "Valve released a fresh SteamOS 3.9.4 Beta to fix up some annoying issues, along with a security update.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/202"
+    },
+    {
+      "title": "Steam Client update fixes Vulkan games hanging after alt-tab, and a security update",
+      "link": "https://www.gamingonlinux.com/2026/10/steam-client-update-fixes-vulkan-games-hanging-after-alt-tab-and-a-security-update/",
+      "published": "Thu, 22 Oct 2026 07:06:21 +0000",
+      "snippet": "An annoying bug I've run into a few times recently has been solved - Vulkan games hanging after alt-tab should be fixed with this new Steam Client update.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg\" alt /></p><p>Read the full article on <a href=\"https://ww"
+    },
+    {
+      "title": "SteamVR 2.18 brings Linux fixes, Steam Frame improvements, new Aurora environment",
+      "link": "https://www.gamingonlinux.com/2026/10/steamvr-2-18-brings-linux-fixes-steam-frame-improvements-new-aurora-environment/",
+      "published": "Thu, 22 Oct 2026 07:01:05 +0000",
+      "snippet": "Valve just released the latest stable SteamVR 2.18 update, bringing with it an assortment of fixes for all supported platforms including Steam Frame.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/SteamVR.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinu"
+    },
     {
       "title": "Electronic Arts (EA) to shut down BioWare and cancel the next Mass Effect",
       "link": "https://www.gamingonlinux.com/2026/10/electronic-arts-ea-to-shut-down-bioware-and-cancel-the-next-mass-effect/",
@@ -46,54 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/rts-game-theatre-of-war-rearmed-set-for-release-on-december-9/",
       "published": "Wed, 21 Oct 2026 08:26:05 +0000",
       "snippet": "Bringing together all the classic Theatre of War RTS games into one upgraded package, Theatre of War: Rearmed set for release on December 9th.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1330023672id30022gol.webp\" alt /></p><p>Read the full article on <a href=\"https://w"
-    },
-    {
-      "title": "Here's another 15 demos worth checking out in Steam Next Fest - October 2026 edition",
-      "link": "https://www.gamingonlinux.com/2026/10/heres-another-15-demos-worth-checking-out-in-steam-next-fest-october-2026-edition/",
-      "published": "Wed, 21 Oct 2026 08:09:37 +0000",
-      "snippet": "With the increasing amount of slop on Steam, you may need just a bit of help to sift through it to find something special to play.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1095377755id30021gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonl"
-    },
-    {
-      "title": "Play with friends with the Social Multiplayer Games Collection from Digiphile",
-      "link": "https://www.gamingonlinux.com/2026/10/play-with-friends-with-the-social-multiplayer-games-collection-from-digiphile/",
-      "published": "Wed, 21 Oct 2026 07:10:24 +0000",
-      "snippet": "Digiphile (former Humble Bundler staff) just launched their new Social Multiplayer Games Collection.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2141278198id30020gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/play-with-fri"
-    },
-    {
-      "title": "Get more fun VR games in the Flat2VR Humble Bundle",
-      "link": "https://www.gamingonlinux.com/2026/10/get-more-fun-vr-games-in-the-flat2vr-humble-bundle/",
-      "published": "Wed, 21 Oct 2026 07:03:36 +0000",
-      "snippet": "In the need for more good VR experiences? Got you covered here with our round-up of the brand new Flat2VR Humble Bundle.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1311231244id30019gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2"
-    },
-    {
-      "title": "AMD FSR Upscaling 4.1 expands support to older Desktops, Laptops, Handhelds, Consoles and Vulkan",
-      "link": "https://www.gamingonlinux.com/2026/10/amd-fsr-upscaling-4-1-expands-support-to-older-desktops-laptops-handhelds-consoles-and-vulkan/",
-      "published": "Tue, 20 Oct 2026 15:40:30 +0000",
-      "snippet": "Many asked for this and AMD have finally delivered - today they announced AMD FSR Upscaling 4.1 support has expanded to older hardware.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/325611419id30018gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamin"
-    },
-    {
-      "title": "Here's the highlights from the recent 2026 Out of Bounds Showcase",
-      "link": "https://www.gamingonlinux.com/2026/10/heres-the-highlights-from-the-recent-2026-out-of-bounds-showcase/",
-      "published": "Tue, 20 Oct 2026 12:18:08 +0000",
-      "snippet": "Entalto Publishing recently held the second edition of its Out of Bounds Showcase, highlighting 16 indie games from developers around the world.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/812792989id30017gol.webp\" alt /></p><p>Read the full article on <a href=\"https://"
-    },
-    {
-      "title": "HEAT: Pedal to the Metal by Days of Wonder is getting an official video game adaptation",
-      "link": "https://www.gamingonlinux.com/2026/10/heat-pedal-to-the-metal-by-days-of-wonder-is-getting-an-official-video-game-adaptation/",
-      "published": "Tue, 20 Oct 2026 11:39:54 +0000",
-      "snippet": "Play your cards strategically and push your engine to the limit in HEAT: Pedal to the Metal, an official digital adaptation of the award-winning board game.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/707754697id30015gol.webp\" alt /></p><p>Read the full article on <a hr"
-    },
-    {
-      "title": "Unforgiving cave-exploration survival simulator Casualties: Unknown arrives November 9",
-      "link": "https://www.gamingonlinux.com/2026/10/unforgiving-cave-exploration-survival-simulator-casualties-unknown-arrives-november-9/",
-      "published": "Tue, 20 Oct 2026 11:15:02 +0000",
-      "snippet": "Casualties: Unknown is a game for people who love a tough challenge, with simulated limb and cardiovascular systems.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1871024186id30014gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/"
-    },
-    {
-      "title": "Score touchdowns and win it all in the retro-inspired, side-scrolling Classic American Football",
-      "link": "https://www.gamingonlinux.com/2026/10/score-touchdowns-and-win-it-all-in-the-retro-inspired-side-scrolling-classic-american-football/",
-      "published": "Tue, 20 Oct 2026 10:50:28 +0000",
-      "snippet": "Classic American Football is an upcoming sports game from IsoTyger Studios, bringing back some retro fun in a neat looking package.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2022695651id30013gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingon"
     }
   ]
 }
