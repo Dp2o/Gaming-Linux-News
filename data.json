@@ -2,9 +2,15 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-26T16:15:49.510729"
+    "updated_at": "2026-10-26T21:08:31.944081"
   },
   "data": [
+    {
+      "title": "Microlandia, a deeply simulated city-builder gets a big game engine upgrade",
+      "link": "https://www.gamingonlinux.com/2026/10/microlandia-a-deeply-simulated-city-builder-gets-a-big-game-engine-upgrade/",
+      "published": "Mon, 26 Oct 2026 16:37:00 +0000",
+      "snippet": "Every single citizen counts in Microlandia, a deeply simulated cozy-looking city-builder. And now, it should work better than ever.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1636417677id30057gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingon"
+    },
     {
       "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl 2.1 adds A-Life NPC visualisation distance options",
       "link": "https://www.gamingonlinux.com/2026/10/s-t-a-l-k-e-r-2-heart-of-chornobyl-2-1-adds-a-life-npc-visualisation-distance-options/",
@@ -51,7 +57,7 @@
       "title": "Steam Next Fest - October 2026, here's the most-played demos so far",
       "link": "https://www.gamingonlinux.com/2026/10/steam-next-fest-october-2026-heres-the-most-played-demos-so-far/",
       "published": "Mon, 26 Oct 2026 08:51:33 +0000",
-      "snippet": "Valve sent word via email as Steam Next Fest - October 2026 beings to wind down about what has been the most popular during this event.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1227058691id30050gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gami"
+      "snippet": "Valve sent word via email as Steam Next Fest - October 2026 begins to wind down about what has been the most popular during this event.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1227058691id30050gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gami"
     },
     {
       "title": "SteamOS 3.9.5 released with Plasma 6.7, Linux 7.2, Security Fixes, better Steam Frame wireless adapter support",
@@ -88,12 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/bazzite-linux-announce-rog-xbox-ally-x20-and-acer-predator-atlas-support-is-in-testing/",
       "published": "Fri, 23 Oct 2026 09:39:44 +0000",
       "snippet": "Another release of the popular Bazzite Linux is coming up, with new devices currently in testing like the ROG XBOX Ally X20 and Acer Predator Atlas.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/485598253id30044gol.webp\" alt /></p><p>Read the full article on <a href=\"http"
-    },
-    {
-      "title": "GameMaker announce their next-gen runtime GMRT will be free for commercial use",
-      "link": "https://www.gamingonlinux.com/2026/10/gamemaker-announce-their-next-gen-runtime-gmrt-will-be-free-for-commercial-use/",
-      "published": "Fri, 23 Oct 2026 09:31:34 +0000",
-      "snippet": "GameMaker continue advancing their new next-generation runtime for developers, and they've had a nice announcement today that will save devs some monies.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1160160788id30043gol.webp\" alt /></p><p>Read the full article on <a href"
     }
   ]
 }
