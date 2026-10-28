@@ -2,9 +2,21 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-28T12:56:20.362835"
+    "updated_at": "2026-10-28T18:43:26.069718"
   },
   "data": [
+    {
+      "title": "AMD FSR SDK 2.4 is out with FSR Upscaling 4.1.2 for older hardware and Vulkan support",
+      "link": "https://www.gamingonlinux.com/2026/10/amd-fsr-sdk-2-4-is-out-with-fsr-upscaling-4-1-2-for-older-hardware-and-vulkan-support/",
+      "published": "Wed, 28 Oct 2026 15:45:57 +0000",
+      "snippet": "AMD FSR SDK 2.4 is now officially out bringing the newer FSR Upscaling 4.1.2 for older Radeon GPUs and Ryzen APUs, along with Vulkan support for newer FSR.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/amd-logo.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamin"
+    },
+    {
+      "title": "CONTROL Resonant gets a DRM-free release on GOG",
+      "link": "https://www.gamingonlinux.com/2026/10/control-resonant-gets-a-drm-free-release-on-gog/",
+      "published": "Wed, 28 Oct 2026 15:26:26 +0000",
+      "snippet": "Good news for fans of DRM-free gaming as the popular recent release of CONTROL Resonant is now available on GOG.com.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/583454439id30074gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/1"
+    },
     {
       "title": "Arriving this Winter, the frog town-building game Croakwood from the Parkitect devs looks lovely",
       "link": "https://www.gamingonlinux.com/2026/10/arriving-this-winter-the-frog-town-building-game-croakwood-from-the-parkitect-devs-looks-lovely/",
@@ -82,18 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/steam-scream-fest-v-is-here-with-discounts-on-spooky-games/",
       "published": "Tue, 27 Oct 2026 09:21:53 +0000",
       "snippet": "Steam Scream Fest V has arrived and with it lots of discounts on various different types of games that will make you need fresh pants.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1426083461id30061gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamin"
-    },
-    {
-      "title": "Classic survival-horrors Ecstatica and Ecstatica II get re-released with upgrades",
-      "link": "https://www.gamingonlinux.com/2026/10/classic-survival-horrors-ecstatica-and-ecstatica-ii-get-re-released-with-upgrades/",
-      "published": "Tue, 27 Oct 2026 08:59:32 +0000",
-      "snippet": "Originally released in the late 90s, Ecstatica and Ecstatica II are survival-horror games with a unique style not to be missed.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/808359526id30060gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux"
-    },
-    {
-      "title": "Steam Beta makes game invites simpler on SteamOS / Big Picture Mode",
-      "link": "https://www.gamingonlinux.com/2026/10/steam-beta-makes-game-invites-simpler-on-steamos-big-picture-mode/",
-      "published": "Tue, 27 Oct 2026 08:43:26 +0000",
-      "snippet": "Valve released the latest Steam Beta for all supported platforms, with the October 26th update finally making game invites easier.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-2025.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/10/"
     }
   ]
 }
