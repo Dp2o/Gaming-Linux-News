@@ -2,9 +2,21 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-30T13:22:02.231215"
+    "updated_at": "2026-10-30T18:45:48.250273"
   },
   "data": [
+    {
+      "title": "Proton Experimental brings new fixes for Helldivers 2, BeamNG.drive and more",
+      "link": "https://www.gamingonlinux.com/2026/10/proton-experimental-brings-new-fixes-for-helldivers-2-beamng-drive-and-more/",
+      "published": "Fri, 30 Oct 2026 18:08:21 +0000",
+      "snippet": "Valve released the latest upgrade for Proton Experimental bringing a fresh set of fixes for Windows games on SteamOS / Linux for October 30th.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2036704149id30096gol.webp\" alt /></p><p>Read the full article on <a href=\"https://w"
+    },
+    {
+      "title": "Northgard Battlegrounds takes the strategy game into a new auto-battling direction",
+      "link": "https://www.gamingonlinux.com/2026/10/northgard-battlegrounds-takes-the-strategy-game-into-a-new-auto-battling-direction/",
+      "published": "Fri, 30 Oct 2026 17:59:06 +0000",
+      "snippet": "Available now in Early Access, Northgard Battlegrounds takes the classic strategy game into a completely different direction.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1555632477id30095gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux."
+    },
     {
       "title": "The popular idle clicker game Idle Slayer added Linux and macOS support",
       "link": "https://www.gamingonlinux.com/2026/10/the-popular-idle-clicker-game-idle-slayer-added-linux-and-macos-support/",
@@ -82,18 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/build-up-your-spooky-game-collection-with-the-horror-trifectas-humble-bundle/",
       "published": "Thu, 29 Oct 2026 11:44:36 +0000",
       "snippet": "A great game bundle has arrived for fans of spooky games, just in time for Halloween in the Horror Trifectas Humble Bundle.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/145285790id30082gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com"
-    },
-    {
-      "title": "CachyOS Linux working on a dedicated kernel for supporting Easy Anti-Cheat v2",
-      "link": "https://www.gamingonlinux.com/2026/10/cachyos-linux-working-on-a-dedicated-kernel-for-supporting-easy-anti-cheat-v2/",
-      "published": "Thu, 29 Oct 2026 11:27:55 +0000",
-      "snippet": "With the new Epic Games Launcher supported on Linux, along with a remade Easy Anti-Cheat coming, the CachyOS team are working on kernel support for EAC v2.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/cachyos-logo_gol2_ff07b5be.webp\" alt /></p><p>Read the full article on <a href"
-    },
-    {
-      "title": "Ubuntu Core Desktop has been restarted with a dedicated team with plans to improve Linux gaming",
-      "link": "https://www.gamingonlinux.com/2026/10/ubuntu-core-desktop-has-been-restarted-with-a-dedicated-team-with-plans-to-improve-linux-gaming/",
-      "published": "Thu, 29 Oct 2026 10:49:09 +0000",
-      "snippet": "Ubuntu Core Desktop is Canonical's immutable version of Ubuntu Linux, and they're back to working on it for desktop users.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/461090350id30080gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/"
     }
   ]
 }
