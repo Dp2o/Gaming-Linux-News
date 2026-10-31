@@ -2,9 +2,15 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-10-31T02:05:25.286973"
+    "updated_at": "2026-10-31T08:26:48.377102"
   },
   "data": [
+    {
+      "title": "Wine 11.21 released with improved WoW64 OpenGL performance",
+      "link": "https://www.gamingonlinux.com/2026/10/wine-11-21-released-with-improved-wow64-opengl-performance/",
+      "published": "Sat, 31 Oct 2026 07:44:42 +0000",
+      "snippet": "Another biweekly development release is here with Wine 11.21 out now bringing various improvements for running Windows apps and games on Linux.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux"
+    },
     {
       "title": "Proton Experimental brings new fixes for Helldivers 2, BeamNG.drive and more",
       "link": "https://www.gamingonlinux.com/2026/10/proton-experimental-brings-new-fixes-for-helldivers-2-beamng-drive-and-more/",
@@ -88,12 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/10/no-mans-sky-forsaken-update-brings-seamless-warping-new-cockpits-forsaken-traders-and-more/",
       "published": "Thu, 29 Oct 2026 12:01:05 +0000",
       "snippet": "Somehow, Hello Games keep on adding impressive new bits into their ageing space survival game, with the No Man's Sky Forsaken update out now.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/626001799id30083gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www"
-    },
-    {
-      "title": "Build up your spooky game collection with the Horror Trifectas Humble Bundle",
-      "link": "https://www.gamingonlinux.com/2026/10/build-up-your-spooky-game-collection-with-the-horror-trifectas-humble-bundle/",
-      "published": "Thu, 29 Oct 2026 11:44:36 +0000",
-      "snippet": "A great game bundle has arrived for fans of spooky games, just in time for Halloween in the Horror Trifectas Humble Bundle.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/145285790id30082gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com"
     }
   ]
 }
