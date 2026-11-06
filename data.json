@@ -2,9 +2,15 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-11-06T14:49:35.026941"
+    "updated_at": "2026-11-06T20:42:58.779899"
   },
   "data": [
+    {
+      "title": "Epic Games comments on planned Linux distribution support",
+      "link": "https://www.gamingonlinux.com/2026/11/epic-games-comments-on-planned-linux-distribution-support/",
+      "published": "Fri, 06 Nov 2026 19:22:31 +0000",
+      "snippet": "With the new Epic Games Launcher Preview out with Linux support, you might be wondering what distros exactly they plan to support - we have an answer for you.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/epicgames.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.g"
+    },
     {
       "title": "Roguefort is an open-world roguelike RPG where magic comes from cheesemaking",
       "link": "https://www.gamingonlinux.com/2026/11/roguefort-is-an-open-world-roguelike-rpg-where-magic-comes-from-cheesemaking/",
@@ -88,12 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/11/tripwire-presents-expands-publishing-to-focus-on-support-of-smaller-indie-teams/",
       "published": "Thu, 05 Nov 2026 11:06:17 +0000",
       "snippet": "Tripwire Presents, the publishing division of Tripwire Interactive, announced a new initiative to expand support for smaller indie developers and games.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1581879865id30131gol.webp\" alt /></p><p>Read the full article on <a href="
-    },
-    {
-      "title": "Pillars of Eternity and Pillars of Eternity II: Deadfire get major updates with controller support in Beta",
-      "link": "https://www.gamingonlinux.com/2026/11/pillars-of-eternity-and-pillars-of-eternity-ii-deadfire-get-major-updates-with-controller-support-in-beta/",
-      "published": "Thu, 05 Nov 2026 09:27:46 +0000",
-      "snippet": "Obsidian Entertainment are again revamping some older games with both Pillars of Eternity and Pillars of Eternity II: Deadfire getting controller support.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1083985414id30130gol.webp\" alt /></p><p>Read the full article on <a hre"
     }
   ]
 }
