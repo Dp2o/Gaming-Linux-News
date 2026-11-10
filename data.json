@@ -2,9 +2,33 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-11-10T10:58:55.915355"
+    "updated_at": "2026-11-10T18:36:49.587234"
   },
   "data": [
+    {
+      "title": "Massive scale RTS 'Ashes of the Singularity II' out now - review",
+      "link": "https://www.gamingonlinux.com/2026/11/massive-scale-rts-ashes-of-the-singularity-ii-out-now-review/",
+      "published": "Tue, 10 Nov 2026 16:05:43 +0000",
+      "snippet": "Ashes of the Singularity II is out now from Oxide Games and Stardock Entertainment, here's some of my thoughts on this massive RTS game.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1595997079id30163gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gam"
+    },
+    {
+      "title": "X.Org Security Advisory released for November 10th - multiple security issues in X.Org X server",
+      "link": "https://www.gamingonlinux.com/2026/11/x-org-security-advisory-released-for-november-10th-multiple-security-issues-in-x-org-x-server/",
+      "published": "Tue, 10 Nov 2026 13:55:28 +0000",
+      "snippet": "A fresh X.Org Security Advisory has been released today, noting multiple security issues in X.Org X server. Here we go again huh?<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/xorg.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/x-org-sec"
+    },
+    {
+      "title": "Proton Experimental gets fixes for Phantom Blade Zero, AION 2, The Forest and more",
+      "link": "https://www.gamingonlinux.com/2026/11/proton-experimental-gets-fixes-for-phantom-blade-zero-aion-2-the-forest-and-more/",
+      "published": "Tue, 10 Nov 2026 12:26:54 +0000",
+      "snippet": "Valve released an early update to Proton Experimental to bring fixes for Windows games on Linux / SteamOS including Steam Deck, Steam Machine and Steam Frame.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1669349062id30165gol.webp\" alt /></p><p>Read the full article on <a"
+    },
+    {
+      "title": "Mesa 26.3.0 arrives with many Linux graphics driver enhancements",
+      "link": "https://www.gamingonlinux.com/2026/11/mesa-26-3-0-arrives-with-many-linux-graphics-driver-enhancements/",
+      "published": "Tue, 10 Nov 2026 11:02:38 +0000",
+      "snippet": "While there's no announcement for it yet, the Mesa 26.3.0 open source drivers release is tagged and out now. Bringing many enhancements for gamers!<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/mesa.png\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com"
+    },
     {
       "title": "Upcoming isometric action rogue-lite Everrest is \"Hades meets EarthBound\"",
       "link": "https://www.gamingonlinux.com/2026/11/upcoming-isometric-action-rogue-lite-everrest-is-hades-meets-earthbound/",
@@ -48,8 +72,8 @@
       "snippet": "Theropods is a pixel-art point and click adventure set in prehistoric times of dinosaurs and cave-dwellers, and it proves you don't need words for a good time.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/250320448id30155gol.webp\" alt /></p><p>Read the full article on <a"
     },
     {
-      "title": "Call of Duty Zombies merged with Team Fortress 2 - Mann Versus Zombies is coming to Steam",
-      "link": "https://www.gamingonlinux.com/2026/11/call-of-duty-zombies-merged-with-team-fortress-2-mann-versus-zombies-is-coming-to-steam/",
+      "title": "Call of Duty Zombies mixed with Team Fortress 2 - Mann Versus Zombies is coming to Steam",
+      "link": "https://www.gamingonlinux.com/2026/11/call-of-duty-zombies-mixed-with-team-fortress-2-mann-versus-zombies-is-coming-to-steam/",
       "published": "Mon, 09 Nov 2026 10:53:32 +0000",
       "snippet": "Love the idea of fighting off zombies in the Team Fortress 2 world? Mann Versus Zombies is bringing the action to Steam.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1189640149id30156gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2"
     },
@@ -70,30 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/11/new-skateboarding-deckbuilder-grab-your-deck-looks-very-unique/",
       "published": "Mon, 09 Nov 2026 09:37:42 +0000",
       "snippet": "Jump onto your deck and build up some tricks using cards in Grab Your Deck, a new skateboarding deckbuilder that looks unique.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/225700195id30152gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux."
-    },
-    {
-      "title": "Fight through the districts of a dead city in the demo of SAMOPAL Protocol",
-      "link": "https://www.gamingonlinux.com/2026/11/fight-through-the-districts-of-a-dead-city-in-the-demo-of-samopal-protocol/",
-      "published": "Mon, 09 Nov 2026 08:23:20 +0000",
-      "snippet": "If you're in need of more interesting retro shooters, how about check out SAMOPAL Protocol. Inspired by 1960s Eastern Europe.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1945141994id30151gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux."
-    },
-    {
-      "title": "Aftermind is a promising looking boomer-shooter set inside a coma patient's nightmares",
-      "link": "https://www.gamingonlinux.com/2026/11/aftermind-is-a-promising-looking-boomer-shooter-set-inside-a-coma-patients-nightmares/",
-      "published": "Mon, 09 Nov 2026 08:16:24 +0000",
-      "snippet": "Things look a bit spooky and full of gibs in the boomer-shooter Aftermind, set inside the mind of a coma patient.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1598607750id30150gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/"
-    },
-    {
-      "title": "Under-equipped and far from help, retro shooter DERELIKT arrives November 13",
-      "link": "https://www.gamingonlinux.com/2026/11/under-equipped-and-far-from-help-retro-shooter-derelikt-arrives-november-13/",
-      "published": "Mon, 09 Nov 2026 08:07:25 +0000",
-      "snippet": "DERELIKT is a narrative retro FPS built for fans of claustrophobic PS1-era sci-fi horror, and it's set to release on November 13.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1411767010id30149gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonli"
-    },
-    {
-      "title": "Heroes of Might and Magic 2 project fheroes2 version 1.1.18 is out now",
-      "link": "https://www.gamingonlinux.com/2026/11/heroes-of-might-and-magic-2-project-fheroes2-version-1-1-18-is-out-now/",
-      "published": "Mon, 09 Nov 2026 07:25:52 +0000",
-      "snippet": "Dear players of HoMM2 and fans of the fheroes2 project! After a very long delay and endless waiting, we are finally releasing the next version.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1056516569id30148gol.webp\" alt /></p><p>Read the full article on <a href=\"https://"
     }
   ]
 }
