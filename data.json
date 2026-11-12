@@ -2,9 +2,21 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-11-12T01:01:42.333109"
+    "updated_at": "2026-11-12T08:20:53.362925"
   },
   "data": [
+    {
+      "title": "Guide: Where to follow more Linux news without the clickbait",
+      "link": "https://www.gamingonlinux.com/guides/view/where-to-follow-more-linux-news-without-the-clickbait",
+      "published": "Thu, 12 Nov 2026 08:15:16 +0000",
+      "snippet": "Want more Linux news in your life? There's plenty worth reading and watching without being told Windows is dead for the fifteenth time this week.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/753552378id30176gol.webp\" alt /></p><p>Read the full article on <a href=\"https:/"
+    },
+    {
+      "title": "Steam Update for November 11 brings a 64bit Linux client, Steam Achievement Sets and more",
+      "link": "https://www.gamingonlinux.com/2026/11/steam-update-for-november-11-brings-a-64bit-linux-client-steam-achievement-sets-and-more/",
+      "published": "Thu, 12 Nov 2026 08:00:10 +0000",
+      "snippet": "The latest major Steam stable update is out now for all platforms bringing the fancy new Steam Achievement Sets, and for Linux the client is now 64bit.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.g"
+    },
     {
       "title": "Warhammer Survivors is out now - review",
       "link": "https://www.gamingonlinux.com/2026/11/warhammer-survivors-is-out-now-review/",
@@ -82,18 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/11/upcoming-isometric-action-rogue-lite-everrest-is-hades-meets-earthbound/",
       "published": "Tue, 10 Nov 2026 08:38:50 +0000",
       "snippet": "Everrest looks like one to stick onto your wishlist and keep an eye on, if you like the sound of \"Hades meets EarthBound\" as the developer tells me.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/489813304id30162gol.webp\" alt /></p><p>Read the full article on <a href=\"http"
-    },
-    {
-      "title": "OpenZ is an open-source 3D fan remake of the RTS 'Z' (The Bitmap Brothers, 1996)",
-      "link": "https://www.gamingonlinux.com/2026/11/openz-is-an-open-source-3d-fan-remake-of-the-rts-z-the-bitmap-brothers-1996/",
-      "published": "Tue, 10 Nov 2026 08:27:45 +0000",
-      "snippet": "Anyone remember the classic strategy game Z from The Bitmap Brothers? A true and brutally difficult classic that's been revived by fans in 3D.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1093513376id30161gol.webp\" alt /></p><p>Read the full article on <a href=\"https://w"
-    },
-    {
-      "title": "Dune: Awakening gets fully offline single-player in the latest update",
-      "link": "https://www.gamingonlinux.com/2026/11/dune-awakening-gets-fully-offline-single-player-in-the-latest-update/",
-      "published": "Tue, 10 Nov 2026 08:18:00 +0000",
-      "snippet": "Dune: Awakening developers delivered what they promised, as the game can now be played entirely offline in single-player.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/161591486id30160gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2"
     }
   ]
 }
