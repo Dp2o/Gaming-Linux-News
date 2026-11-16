@@ -2,9 +2,63 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-11-16T07:06:18.911070"
+    "updated_at": "2026-11-16T17:02:14.666629"
   },
   "data": [
+    {
+      "title": "Discord's upcoming new Rust client will bring some missing features to Linux",
+      "link": "https://www.gamingonlinux.com/2026/11/discords-upcoming-new-rust-client-will-bring-some-missing-features-to-linux/",
+      "published": "Mon, 16 Nov 2026 14:57:41 +0000",
+      "snippet": "Discord is probably the most popular chat app for gamers, and along with some other recent improvements on Linux, we're set to see even more.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/221637166id30207gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www"
+    },
+    {
+      "title": "Get some revamped classics in the Masterful Remasters Bundle: Volume II",
+      "link": "https://www.gamingonlinux.com/2026/11/get-some-revamped-classics-in-the-masterful-remasters-bundle-volume-ii/",
+      "published": "Mon, 16 Nov 2026 13:47:45 +0000",
+      "snippet": "Green Man Gaming again with another quality bundle with multiple revamped classics now in the Masterful Remasters Bundle: Volume II.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1557756262id30206gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingo"
+    },
+    {
+      "title": "Get a big mixture of silly games in the Seriously Unserious Collection Humble Bundle",
+      "link": "https://www.gamingonlinux.com/2026/11/get-a-big-mixture-of-silly-games-in-the-seriously-unserious-collection-humble-bundle/",
+      "published": "Mon, 16 Nov 2026 09:54:14 +0000",
+      "snippet": "Now some of the issues have been solved from the recent Humble Store overhaul, it's time for a new highlight with the Seriously Unserious Collection Humble.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1471653202id30205gol.webp\" alt /></p><p>Read the full article on <a h"
+    },
+    {
+      "title": "Wuthering Waves fixes for SteamOS / Linux in the new DWProton 11.0-17 release",
+      "link": "https://www.gamingonlinux.com/2026/11/wuthering-waves-fixes-for-steamos-linux-in-the-new-dwproton-11-0-17-release/",
+      "published": "Mon, 16 Nov 2026 09:31:54 +0000",
+      "snippet": "DWProton that's popular for various Anime games on SteamOS / Linux has a new release out, to bring fixes for the latest Wuthering Waves updates.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1148438577id30204gol.webp\" alt /></p><p>Read the full article on <a href=\"https:/"
+    },
+    {
+      "title": "Planetary Annihilation: TITANS finally gets a new modern UI system",
+      "link": "https://www.gamingonlinux.com/2026/11/planetary-annihilation-titans-finally-gets-a-new-modern-ui-system/",
+      "published": "Mon, 16 Nov 2026 09:20:01 +0000",
+      "snippet": "Planetary Annihilation: TITANS has a new update out now, which finally tears out their old and unreliable UI system ready to keep expanding the game.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1530530423id30203gol.webp\" alt /></p><p>Read the full article on <a href=\"ht"
+    },
+    {
+      "title": "Super Meat Boy Again+ announced reviving the classic tough platformer",
+      "link": "https://www.gamingonlinux.com/2026/11/super-meat-boy-again-announced-reviving-the-classic-tough-platformer/",
+      "published": "Mon, 16 Nov 2026 08:50:58 +0000",
+      "snippet": "Super Meat Boy Again+ was recently revealed by Team Meat, going back to their original 2D origins.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/302816187id30202gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/super-meat-boy-a"
+    },
+    {
+      "title": "Selaco: The Machines of War massive free update is out now",
+      "link": "https://www.gamingonlinux.com/2026/11/selaco-the-machines-of-war-massive-free-update-is-out-now/",
+      "published": "Mon, 16 Nov 2026 08:40:07 +0000",
+      "snippet": "Selaco: The Machines of War is a massive free update out now for the incredible retro shooter, with lots that's new to play through.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1162141060id30201gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingo"
+    },
+    {
+      "title": "Check out the new demo for CultGame, an ASCII art cult simulator RPG",
+      "link": "https://www.gamingonlinux.com/2026/11/check-out-the-new-demo-for-cultgame-an-ascii-art-cult-simulator-rpg/",
+      "published": "Mon, 16 Nov 2026 08:19:47 +0000",
+      "snippet": "Bringing back some classic style to gaming - the cult simulator RPG CultGame now has a demo available to try out.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/424479328id30200gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/c"
+    },
+    {
+      "title": "Epic Games Launcher Preview for Linux now has an unofficial Flathub package",
+      "link": "https://www.gamingonlinux.com/2026/11/epic-games-launcher-preview-for-linux-now-has-an-unofficial-flathub-package/",
+      "published": "Mon, 16 Nov 2026 08:05:54 +0000",
+      "snippet": "While Epic Games only currently have an Ubuntu / Debian package (with plans for more), so the community has put the Epic Games Launcher up on Flathub.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1692217838id30199gol.webp\" alt /></p><p>Read the full article on <a href=\"h"
+    },
     {
       "title": "SteamVR 2.19.3 Beta and SteamOS 0.5.9 Beta for Steam Frame released",
       "link": "https://www.gamingonlinux.com/2026/11/steamvr-2-19-3-beta-and-steamos-0-5-9-beta-for-steam-frame-released/",
@@ -40,60 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/11/fanaticals-new-play-on-the-go-bundle-is-here-for-november-2026/",
       "published": "Fri, 13 Nov 2026 14:22:55 +0000",
       "snippet": "Pick up some quality cheap games to play on your Steam Deck, ROG Ally, Legion Go - or whatever else you're gaming on.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1500007887id30193gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026"
-    },
-    {
-      "title": "Discord go into more detail on their Linux upgrades, with more to come",
-      "link": "https://www.gamingonlinux.com/2026/11/discord-go-into-more-detail-on-their-linux-upgrades-with-more-to-come/",
-      "published": "Fri, 13 Nov 2026 13:20:21 +0000",
-      "snippet": "Discord seem like they really are taking Linux more seriously now, with various upgrades made for it over the last year with more to come.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1163072622id30192gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.g"
-    },
-    {
-      "title": "Splatchinko is a chaotic space roguelike pachinko out now - reviewed",
-      "link": "https://www.gamingonlinux.com/2026/11/splatchinko-is-a-chaotic-space-roguelike-pachinko-out-now-reviewed/",
-      "published": "Fri, 13 Nov 2026 12:35:41 +0000",
-      "snippet": "I do love watching numbers go up, and I do love building up ridiculous combinations - Splatchinko is a chaotic space roguelike pachinko out now.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1982955256id30191gol.webp\" alt /></p><p>Read the full article on <a href=\"https:/"
-    },
-    {
-      "title": "Massive-scale god sim The Universim gets a big surprise update",
-      "link": "https://www.gamingonlinux.com/2026/11/massive-scale-god-sim-the-universim-gets-a-big-surprise-update/",
-      "published": "Fri, 13 Nov 2026 09:25:02 +0000",
-      "snippet": "Quite a nice surprise, Crytivo actually returned to their original massive-scale god sim The Universim to give it some much needed upgrades.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1063568604id30190gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www"
-    },
-    {
-      "title": "Survival horror Confronted gets a big performance boost ahead of the 1.0 release",
-      "link": "https://www.gamingonlinux.com/2026/11/survival-horror-confronted-gets-a-big-performance-boost-ahead-of-the-1-0-release/",
-      "published": "Fri, 13 Nov 2026 09:12:57 +0000",
-      "snippet": "It's not very well-known but looks worth a go, survival horror Confronted recently had a big performance upgrade to it.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1427877948id30189gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/20"
-    },
-    {
-      "title": "Unlimited Maid Works is an unusual roguelike about being a maid",
-      "link": "https://www.gamingonlinux.com/2026/11/unlimited-maid-works-is-an-unusual-roguelike-about-being-a-maid/",
-      "published": "Fri, 13 Nov 2026 08:28:28 +0000",
-      "snippet": "Unlimited Maid Works brings the most unusual roguelike where you're a maid, and it actually looks really quite interesting and unique.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/788111358id30188gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gaming"
-    },
-    {
-      "title": "Professor Layton and the New World of Steam arrives December 9 with Steam Deck support",
-      "link": "https://www.gamingonlinux.com/2026/11/professor-layton-and-the-new-world-of-steam-arrives-december-9-with-steam-deck-support/",
-      "published": "Fri, 13 Nov 2026 08:06:46 +0000",
-      "snippet": "For fans of puzzle mystery adventures, Professor Layton and the New World of Steam is set to arrive on December 9th.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/876806029id30187gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/1"
-    },
-    {
-      "title": "Fenris Creations (EVE Online / EVE Frontier) reveal the open source CORTAO",
-      "link": "https://www.gamingonlinux.com/2026/11/fenris-creations-eve-online-eve-frontier-reveal-the-open-source-cortao/",
-      "published": "Fri, 13 Nov 2026 07:59:38 +0000",
-      "snippet": "After already open sourcing their Carbon engine framework, Fenris Creations (EVE Online / EVE Frontier) revealed a new rendering technique with CORTAO.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/739500658id30186gol.webp\" alt /></p><p>Read the full article on <a href=\"h"
-    },
-    {
-      "title": "SteamOS 3.9.6 Beta brings an improved framerate limiter, various bug fixes",
-      "link": "https://www.gamingonlinux.com/2026/11/steamos-3-9-6-beta-brings-an-improved-framerate-limiter-various-bug-fixes/",
-      "published": "Fri, 13 Nov 2026 07:40:32 +0000",
-      "snippet": "SteamOS 3.9.6 Beta is now available for testing bringing improvements to the framerate limiter for VRR and non-VRR and multiple bug fixes.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/75236754id30185gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gam"
-    },
-    {
-      "title": "Chill in some idle games with the new Fanatical Idler Bundle",
-      "link": "https://www.gamingonlinux.com/2026/11/chill-in-some-idle-games-with-the-new-fanatical-idler-bundle/",
-      "published": "Thu, 12 Nov 2026 16:42:29 +0000",
-      "snippet": "Idle and clicker games have exploded in popularity over the last year - so here's your chance to experience some for cheaps.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/875855347id30184gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.co"
     }
   ]
 }
