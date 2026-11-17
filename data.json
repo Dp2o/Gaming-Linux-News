@@ -2,9 +2,27 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-11-17T00:48:45.322590"
+    "updated_at": "2026-11-17T08:52:49.539677"
   },
   "data": [
+    {
+      "title": "Half-Life remake Black Mesa gets a huge update, and now Steam Deck Verified",
+      "link": "https://www.gamingonlinux.com/2026/11/half-life-remake-black-mesa-gets-a-huge-update-and-now-steam-deck-verified/",
+      "published": "Tue, 17 Nov 2026 08:30:54 +0000",
+      "snippet": "The excellent Half-Life remake, Black Mesa, has a huge free update out now and it's now Steam Deck Verified too.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/739550330id30210gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/ha"
+    },
+    {
+      "title": "DOOM: The Dark Ages gets a new Slaughter Mode along with AMD FSR 4",
+      "link": "https://www.gamingonlinux.com/2026/11/doom-the-dark-ages-gets-a-new-slaughter-mode-along-with-amd-fsr-4/",
+      "published": "Tue, 17 Nov 2026 08:12:26 +0000",
+      "snippet": "DOOM: The Dark Ages brings the Slaughter Mode for Update 5 along with AMD FSR 4 now that it's available officially for Vulkan.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/429542825id30209gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux."
+    },
+    {
+      "title": "SteamOS 3.10.1 Preview released to fix display issues",
+      "link": "https://www.gamingonlinux.com/2026/11/steamos-3-10-1-preview-released-to-fix-display-issues/",
+      "published": "Tue, 17 Nov 2026 08:03:05 +0000",
+      "snippet": "Following quickly on from the recent exciting SteamOS 3.10.0 Preview, Valve put up another version with some quick important fixes.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steamos_gol2.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/1"
+    },
     {
       "title": "Discord's upcoming new Rust client will bring some missing features to Linux",
       "link": "https://www.gamingonlinux.com/2026/11/discords-upcoming-new-rust-client-will-bring-some-missing-features-to-linux/",
@@ -76,24 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/11/wine-11-22-brings-improved-support-for-arm64-msxml-and-address-space-randomisation/",
       "published": "Sat, 14 Nov 2026 09:15:18 +0000",
       "snippet": "The Wine 11.22 development release is out now for this compatibility layer, continuing to bring more improvements to run Windows software on Linux.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonl"
-    },
-    {
-      "title": "SteamOS 3.10.0 Preview brings HDMI 2.1 VRR, FRL, and ALLM for AMD and improvements for NVIDIA",
-      "link": "https://www.gamingonlinux.com/2026/11/steamos-3-10-0-preview-brings-hdmi-2-1-vrr-frl-and-allm-for-amd-and-improvements-for-nvidia/",
-      "published": "Sat, 14 Nov 2026 09:08:09 +0000",
-      "snippet": "Valve released SteamOS 3.10.0 Preview which brings a pretty big set of features, especially if you're on an AMD GPU and now improved NVIDIA support too.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp\" alt /></p><p>Read the full arti"
-    },
-    {
-      "title": "GDC November 2026 survey shows 40% of developers using generative AI",
-      "link": "https://www.gamingonlinux.com/2026/11/gdc-november-2026-survey-shows-40-percent-of-developers-using-generative-ai/",
-      "published": "Fri, 13 Nov 2026 16:15:17 +0000",
-      "snippet": "The GDC 2026 survey has been released, and it's another interesting look behind the scenes of the gaming industry as a whole.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/882187393id30194gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.c"
-    },
-    {
-      "title": "Fanatical's new Play on the Go Bundle is here for November 2026",
-      "link": "https://www.gamingonlinux.com/2026/11/fanaticals-new-play-on-the-go-bundle-is-here-for-november-2026/",
-      "published": "Fri, 13 Nov 2026 14:22:55 +0000",
-      "snippet": "Pick up some quality cheap games to play on your Steam Deck, ROG Ally, Legion Go - or whatever else you're gaming on.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1500007887id30193gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026"
     }
   ]
 }
