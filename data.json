@@ -2,9 +2,63 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-11-19T04:31:56.092957"
+    "updated_at": "2026-11-19T13:56:07.494981"
   },
   "data": [
+    {
+      "title": "The Tower Must Fall - review, build up a ridiculous tower with incremental upgrades",
+      "link": "https://www.gamingonlinux.com/2026/11/the-tower-must-fall-review-build-up-a-ridiculous-tower-with-incremental-upgrades/",
+      "published": "Thu, 19 Nov 2026 12:37:26 +0000",
+      "snippet": "The Tower Must Fall is a curious fusion of tower defense with incremental progression, where you'll watch your precious creation fall time and time again.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/698110440id30232gol.webp\" alt /></p><p>Read the full article on <a href"
+    },
+    {
+      "title": "System76 released the Thelio Prime, a small and powerful Linux PC for work and play",
+      "link": "https://www.gamingonlinux.com/2026/11/system76-released-the-thelio-prime-a-small-and-powerful-linux-pc-for-work-and-play/",
+      "published": "Thu, 19 Nov 2026 10:32:53 +0000",
+      "snippet": "System76 have now formally revealed the new Thelio Prime, and good things come in small packages.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/621922243id30231gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/system76-released"
+    },
+    {
+      "title": "NVIDIA release Linux driver 620.73.04 with more ambiguous changes",
+      "link": "https://www.gamingonlinux.com/2026/11/nvidia-release-linux-driver-620-73-04-with-more-ambiguous-changes/",
+      "published": "Thu, 19 Nov 2026 09:37:15 +0000",
+      "snippet": "A fresh NVIDIA driver 620.73.04 has landed for Linux, as their newer recommended stable driver but they're not telling us what's actually changed.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/nvidia-logo.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlin"
+    },
+    {
+      "title": "The 3D space flight sim Kitten Space Agency (KSA) celebrates a year as it continues to be free",
+      "link": "https://www.gamingonlinux.com/2026/11/the-3d-space-flight-sim-kitten-space-agency-ksa-celebrates-a-year-as-it-continues-to-be-free/",
+      "published": "Thu, 19 Nov 2026 09:20:21 +0000",
+      "snippet": "Made in the spirit of Kerbal Space Program with the original creator, Kitten Space Agency (KSA) is celebrating a year of development.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/94804176id30229gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingon"
+    },
+    {
+      "title": "Hadean Tactics devs announce Black Flame Tactics, a co-op autobattler roguelike",
+      "link": "https://www.gamingonlinux.com/2026/11/hadean-tactics-devs-announce-black-flame-tactics-a-co-op-autobattler-roguelike/",
+      "published": "Thu, 19 Nov 2026 09:04:49 +0000",
+      "snippet": "If you missed the auto-chess craze and miss stuff like Dota Underlords, perhaps Black Flame Tactics might fill a gaming hole for you.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1839659772id30228gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gaming"
+    },
+    {
+      "title": "Steam Client Beta - November 18 gets even more startup improvements, may break some UI mods",
+      "link": "https://www.gamingonlinux.com/2026/11/steam-client-beta-november-18-gets-even-more-startup-improvements-may-break-some-ui-mods/",
+      "published": "Thu, 19 Nov 2026 08:44:43 +0000",
+      "snippet": "Valve released another Steam Client Beta for November 18th that brings even more startup performance improvements - but it may break some UI mods.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gaming"
+    },
+    {
+      "title": "Get some co-op games and stealth action in two new Humble Bundles",
+      "link": "https://www.gamingonlinux.com/2026/11/get-some-co-op-games-and-stealth-action-in-two-new-humble-bundles/",
+      "published": "Thu, 19 Nov 2026 08:18:57 +0000",
+      "snippet": "You can grab two more Humble Bundles with a nice mixture of co-op games to play with friends, and some stealth action games too.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2016442015id30226gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlin"
+    },
+    {
+      "title": "Mesa 26.3.1 released with numerous bug fixes for Linux graphics drivers",
+      "link": "https://www.gamingonlinux.com/2026/11/mesa-26-3-1-released-with-numerous-bug-fixes-for-linux-graphics-drivers/",
+      "published": "Thu, 19 Nov 2026 08:07:02 +0000",
+      "snippet": "Mesa 26.3.1 is out now as the latest bug-fix release for the latest feature release of the Linux open source graphics drivers.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/mesa.png\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/mesa-26-3-1-"
+    },
+    {
+      "title": "Debian Linux forms a Debian Gaming Hardware Team for testing handhelds and consoles",
+      "link": "https://www.gamingonlinux.com/2026/11/debian-linux-forms-a-debian-gaming-hardware-team-for-testing-handhelds-and-consoles/",
+      "published": "Thu, 19 Nov 2026 07:57:27 +0000",
+      "snippet": "Debian Linux is taking Linux gaming as a whole more seriously now, with the formation of the new Debian Gaming Hardware Team.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/debian.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/debian-linu"
+    },
     {
       "title": "Car Park Capital is initially nostalgia bait but so much more",
       "link": "https://www.gamingonlinux.com/2026/11/car-park-capital-is-initially-nostalgia-bait-but-so-much-more/",
@@ -40,60 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/11/pc-controller-support-arrives-for-pillars-of-eternity-and-pillars-of-eternity-ii-deadfire/",
       "published": "Wed, 18 Nov 2026 09:07:57 +0000",
       "snippet": "After a brief Beta testing period, Pillars of Eternity and Pillars of Eternity II: Deadfire now have full controller support on PC.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1154009394id30218gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingon"
-    },
-    {
-      "title": "Pre-orders now open for the Framework Wireless Touchpad Keyboard",
-      "link": "https://www.gamingonlinux.com/2026/11/pre-orders-now-open-for-the-framework-wireless-touchpad-keyboard/",
-      "published": "Wed, 18 Nov 2026 08:53:02 +0000",
-      "snippet": "The Framework Wireless Touchpad Keyboard is a great looking device for using a PC on the sofa, and now it's up for pre-order ahead of a 2027 release.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1669085530id30217gol.webp\" alt /></p><p>Read the full article on <a href=\"ht"
-    },
-    {
-      "title": "Here's all of The Game Awards 2026 nominees",
-      "link": "https://www.gamingonlinux.com/2026/11/heres-all-of-the-game-awards-2026-nominees/",
-      "published": "Wed, 18 Nov 2026 08:36:22 +0000",
-      "snippet": "The Game Awards 2026 is fast approaching on December 10, 2026 and now the nominees for various categories have been revealed.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/the-game-awards-logo_gol2_fef3cb7e.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingon"
-    },
-    {
-      "title": "AI company Manus becomes a Godot Engine Platinum Sponsor",
-      "link": "https://www.gamingonlinux.com/2026/11/ai-company-manus-becomes-a-godot-engine-platinum-sponsor/",
-      "published": "Wed, 18 Nov 2026 08:20:07 +0000",
-      "snippet": "Godot Engine continues pulling in more funding to help the cross-platform open source work, now with an AI company helping.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/334340200id30215gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com"
-    },
-    {
-      "title": "Kill Your Darlings, a great looking time-management dating-sim RPG gets a playtest and Kickstarter",
-      "link": "https://www.gamingonlinux.com/2026/11/kill-your-darlings-a-great-looking-time-management-dating-sim-rpg-gets-a-playtest-and-kickstarter/",
-      "published": "Tue, 17 Nov 2026 15:00:36 +0000",
-      "snippet": "Kill Your Darlings is an upcoming time-management dating-sim RPG from Stray Fawn Studio (The Wandering Village, Dungeon Clawler) that you can try now.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/472323962id30214gol.webp\" alt /></p><p>Read the full article on <a href=\"ht"
-    },
-    {
-      "title": "Incremental horror game show Wheel of Torture looks worth keeping an eye on",
-      "link": "https://www.gamingonlinux.com/2026/11/incremental-horror-game-show-wheel-of-torture-looks-worth-keeping-an-eye-on/",
-      "published": "Tue, 17 Nov 2026 14:02:47 +0000",
-      "snippet": "After something spooky and a little different? Wheel of Torture combines the worlds of horror and incremental into something peculiar.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1750927917id30213gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamin"
-    },
-    {
-      "title": "Unity acquired Synty Studios to power Unity Spark, their AI game creation platform",
-      "link": "https://www.gamingonlinux.com/2026/11/unity-acquired-synty-studios-to-power-unity-spark-their-ai-game-creation-platform/",
-      "published": "Tue, 17 Nov 2026 13:46:29 +0000",
-      "snippet": "Unity continues their push into generative AI, acquiring asset pack maker Synty Studios with plans for their asset packs to arrive in Unity Spark.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1253463716id30212gol.webp\" alt /></p><p>Read the full article on <a href=\"https"
-    },
-    {
-      "title": "Get some quality open world games in the Survival of the Fittest Humble Bundle",
-      "link": "https://www.gamingonlinux.com/2026/11/get-some-quality-open-world-games-in-the-survival-of-the-fittest-humble-bundle/",
-      "published": "Tue, 17 Nov 2026 08:52:27 +0000",
-      "snippet": "Humble is back in action with a rather good one here. The Survival of the Fittest Humble Bundle has arrived with some really good picks.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/218945825id30211gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gami"
-    },
-    {
-      "title": "Half-Life remake Black Mesa gets a huge update, and now Steam Deck Verified",
-      "link": "https://www.gamingonlinux.com/2026/11/half-life-remake-black-mesa-gets-a-huge-update-and-now-steam-deck-verified/",
-      "published": "Tue, 17 Nov 2026 08:30:54 +0000",
-      "snippet": "The excellent Half-Life remake, Black Mesa, has a huge free update out now and it's now Steam Deck Verified too.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/739550330id30210gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/ha"
-    },
-    {
-      "title": "DOOM: The Dark Ages gets a new Slaughter Mode along with AMD FSR 4",
-      "link": "https://www.gamingonlinux.com/2026/11/doom-the-dark-ages-gets-a-new-slaughter-mode-along-with-amd-fsr-4/",
-      "published": "Tue, 17 Nov 2026 08:12:26 +0000",
-      "snippet": "DOOM: The Dark Ages brings the Slaughter Mode for Update 5 along with AMD FSR 4 now that it's available officially for Vulkan.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/429542825id30209gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux."
     }
   ]
 }
