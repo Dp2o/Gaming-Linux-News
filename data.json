@@ -2,9 +2,15 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-11-20T20:22:19.275323"
+    "updated_at": "2026-11-21T01:40:02.686764"
   },
   "data": [
+    {
+      "title": "Epic Games Launcher Preview now supported across Fedora, Ubuntu and Debian",
+      "link": "https://www.gamingonlinux.com/2026/11/epic-games-launcher-preview-now-supported-across-fedora-ubuntu-and-debian/",
+      "published": "Fri, 20 Nov 2026 21:43:24 +0000",
+      "snippet": "The new Epic Games Launcher Preview has been updated again with fresh support for more Linux distributions.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/epicgames.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/epic-games-launcher-previe"
+    },
     {
       "title": "Rayman Legends Retold is Steam Deck and Steam Machine Verified ahead of launch",
       "link": "https://www.gamingonlinux.com/2026/11/rayman-legends-retold-is-steam-deck-and-steam-machine-verified-ahead-of-launch/",
@@ -88,12 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/11/hadean-tactics-devs-announce-black-flame-tactics-a-co-op-autobattler-roguelike/",
       "published": "Thu, 19 Nov 2026 09:04:49 +0000",
       "snippet": "If you missed the auto-chess craze and miss stuff like Dota Underlords, perhaps Black Flame Tactics might fill a gaming hole for you.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1839659772id30228gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gaming"
-    },
-    {
-      "title": "Steam Client Beta - November 18 gets even more startup improvements, may break some UI mods",
-      "link": "https://www.gamingonlinux.com/2026/11/steam-client-beta-november-18-gets-even-more-startup-improvements-may-break-some-ui-mods/",
-      "published": "Thu, 19 Nov 2026 08:44:43 +0000",
-      "snippet": "Valve released another Steam Client Beta for November 18th that brings even more startup performance improvements - but it may break some UI mods.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gaming"
     }
   ]
 }
