@@ -2,9 +2,15 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-11-22T09:31:45.579357"
+    "updated_at": "2026-11-22T17:24:59.900781"
   },
   "data": [
+    {
+      "title": "CachyOS November 2026 Release brings support for Easy Anti-Cheat Linux v2",
+      "link": "https://www.gamingonlinux.com/2026/11/cachyos-november-2026-release-brings-support-for-easy-anti-cheat-linux-v2/",
+      "published": "Sun, 22 Nov 2026 12:55:53 +0000",
+      "snippet": "With Epic Games supporting Linux with their new Epic Games Launcher Preview and Easy Anti-Cheat Linux v2 coming, CachyOS adds support for what's needed.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/cachyos-logo_gol2_ff07b5be.webp\" alt /></p><p>Read the full article on <a href=\"h"
+    },
     {
       "title": "Get some gems in the Deck the Halls with Deckbuilders Bundle",
       "link": "https://www.gamingonlinux.com/2026/11/get-some-gems-in-the-deck-the-halls-with-deckbuilders-bundle/",
@@ -88,12 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/11/nvidia-release-linux-driver-620-73-04-with-more-ambiguous-changes/",
       "published": "Thu, 19 Nov 2026 09:37:15 +0000",
       "snippet": "A fresh NVIDIA driver 620.73.04 has landed for Linux, as their newer recommended stable driver but they're not telling us what's actually changed.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/nvidia-logo.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlin"
-    },
-    {
-      "title": "The 3D space flight sim Kitten Space Agency (KSA) celebrates a year as it continues to be free",
-      "link": "https://www.gamingonlinux.com/2026/11/the-3d-space-flight-sim-kitten-space-agency-ksa-celebrates-a-year-as-it-continues-to-be-free/",
-      "published": "Thu, 19 Nov 2026 09:20:21 +0000",
-      "snippet": "Made in the spirit of Kerbal Space Program with the original creator, Kitten Space Agency (KSA) is celebrating a year of development.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/94804176id30229gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingon"
     }
   ]
 }
