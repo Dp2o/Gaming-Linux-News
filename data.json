@@ -2,9 +2,51 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-11-24T00:37:37.988479"
+    "updated_at": "2026-11-24T10:26:37.655619"
   },
   "data": [
+    {
+      "title": "POSTAL 2 gets a Workshop security update, and future updates are coming",
+      "link": "https://www.gamingonlinux.com/2026/11/postal-2-gets-a-workshop-security-update-and-future-updates-are-coming/",
+      "published": "Tue, 24 Nov 2026 10:05:47 +0000",
+      "snippet": "While work continues on the newer POSTAL 2 Redux, support for the original POSTAL 2 is being spun back up to fix up some issues and add new features.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/31402994id30261gol.webp\" alt /></p><p>Read the full article on <a href=\"http"
+    },
+    {
+      "title": "Goverlay 2.0 brings a big UI overhaul for managing MangoHud, upscalers and more on Linux",
+      "link": "https://www.gamingonlinux.com/2026/11/goverlay-2-0-brings-a-big-ui-overhaul-for-managing-mangohud-upscalers-and-more-on-linux/",
+      "published": "Tue, 24 Nov 2026 09:32:26 +0000",
+      "snippet": "Goverlay is an app to help you manage various Linux gaming tools like MangoHud, OptiScaler and various other tweaks to help you get the most out of your system.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/407165513id30260gol.webp\" alt /></p><p>Read the full article on <"
+    },
+    {
+      "title": "Your futile journey into the sunset continues in Race The Sun 2",
+      "link": "https://www.gamingonlinux.com/2026/11/your-futile-journey-into-the-sunset-continues-in-race-the-sun-2/",
+      "published": "Tue, 24 Nov 2026 09:05:11 +0000",
+      "snippet": "The classic casual racer returns, Race The Sun 2 has been announced by Flippfly LLC.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/23790830id30259gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/your-futile-journey-into-the-su"
+    },
+    {
+      "title": "RimWorld meets Dungeon Keeper in the new release of Malignus",
+      "link": "https://www.gamingonlinux.com/2026/11/rimworld-meets-dungeon-keeper-in-the-new-release-of-malignus/",
+      "published": "Tue, 24 Nov 2026 08:43:03 +0000",
+      "snippet": "Malignus is an Early Access dungeon colony sim where you play the dungeon itself, that blends elements of RimWorld and Dungeon Keeper together.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/894864472id30258gol.webp\" alt /></p><p>Read the full article on <a href=\"https://w"
+    },
+    {
+      "title": "Fable: Return to Albion is an open source Godot remake of Fable II and Fable III",
+      "link": "https://www.gamingonlinux.com/2026/11/fable-return-to-albion-is-an-open-source-godot-remake-of-fable-ii-and-fable-iii/",
+      "published": "Tue, 24 Nov 2026 08:35:37 +0000",
+      "snippet": "Love the classics Fable II and Fable III? You may want to keep an eye on the Fable: Return to Albion remake project made with Godot.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/99253019id30257gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonl"
+    },
+    {
+      "title": "Nominations now open for The 2026 Steam Awards",
+      "link": "https://www.gamingonlinux.com/2026/11/nominations-now-open-for-the-2026-steam-awards/",
+      "published": "Tue, 24 Nov 2026 07:56:27 +0000",
+      "snippet": "The next great popularity contest is here - The 2026 Steam Awards are now open for you to nominate games across various categories.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1084279146id30256gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingon"
+    },
+    {
+      "title": "Proton 11.0-3 is out now bringing lots of fixes for Windows games on SteamOS / Linux",
+      "link": "https://www.gamingonlinux.com/2026/11/proton-11-0-3-is-out-now-bringing-lots-of-fixes-for-windows-games-on-steamos-linux/",
+      "published": "Tue, 24 Nov 2026 07:36:15 +0000",
+      "snippet": "Valve just released Proton 11.0-3 as the new main stable version of the compatibility layer to run Windows games on SteamOS / Linux.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/proton%20logo%20official.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinu"
+    },
     {
       "title": "Jensen Huang returns to NVIDIA as President, CEO and Board Director",
       "link": "https://www.gamingonlinux.com/2026/11/jensen-huang-returns-to-nvidia-as-president-ceo-and-board-director/",
@@ -52,48 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/11/classic-strategy-games-warlords-iv-heroes-of-etheria-soldiers-at-war-and-theocracy-get-re-released/",
       "published": "Mon, 23 Nov 2026 08:30:31 +0000",
       "snippet": "More retro goodies now easily available again! SNEG have re-released Warlords IV: Heroes of Etheria, Soldiers at War, and Theocracy.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1865258433id30247gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingo"
-    },
-    {
-      "title": "Serious Sam Fusion is finally out of Beta with a big upgrade",
-      "link": "https://www.gamingonlinux.com/2026/11/serious-sam-fusion-is-finally-out-of-beta-with-a-big-upgrade/",
-      "published": "Mon, 23 Nov 2026 08:12:04 +0000",
-      "snippet": "Serious Sam Fusion, the hub for many older Serious Sam games has finally left Beta after years.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2089479769id30246gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/serious-sam-fusion"
-    },
-    {
-      "title": "GE-Proton 11-13 is out now bringing lots of Windows gaming fixes to SteamOS / Linux",
-      "link": "https://www.gamingonlinux.com/2026/11/ge-proton-11-13-is-out-now-bringing-lots-of-windows-gaming-fixes-to-steamos-linux/",
-      "published": "Mon, 23 Nov 2026 08:02:21 +0000",
-      "snippet": "GE-Proton 11-13 is another big release for the popular community build of Proton featuring lots of bug fixes and feature enhancements.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/ge-proton_gol2.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2"
-    },
-    {
-      "title": "CachyOS November 2026 Release brings support for Easy Anti-Cheat Linux v2",
-      "link": "https://www.gamingonlinux.com/2026/11/cachyos-november-2026-release-brings-support-for-easy-anti-cheat-linux-v2/",
-      "published": "Sun, 22 Nov 2026 12:55:53 +0000",
-      "snippet": "With Epic Games supporting Linux with their new Epic Games Launcher Preview and Easy Anti-Cheat Linux v2 coming, CachyOS adds support for what's needed.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/cachyos-logo_gol2_ff07b5be.webp\" alt /></p><p>Read the full article on <a href=\"h"
-    },
-    {
-      "title": "Get some gems in the Deck the Halls with Deckbuilders Bundle",
-      "link": "https://www.gamingonlinux.com/2026/11/get-some-gems-in-the-deck-the-halls-with-deckbuilders-bundle/",
-      "published": "Sat, 21 Nov 2026 13:35:58 +0000",
-      "snippet": "The Deck the Halls with Deckbuilders Bundle is live and with it you can get some real indie gems here.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1515471490id30243gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/get-some-ge"
-    },
-    {
-      "title": "Epic Games Launcher Preview now supported across Fedora, Ubuntu and Debian",
-      "link": "https://www.gamingonlinux.com/2026/11/epic-games-launcher-preview-now-supported-across-fedora-ubuntu-and-debian/",
-      "published": "Fri, 20 Nov 2026 21:43:24 +0000",
-      "snippet": "The new Epic Games Launcher Preview has been updated again with fresh support for more Linux distributions.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/epicgames.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/epic-games-launcher-previe"
-    },
-    {
-      "title": "Rayman Legends Retold is Steam Deck and Steam Machine Verified ahead of launch",
-      "link": "https://www.gamingonlinux.com/2026/11/rayman-legends-retold-is-steam-deck-and-steam-machine-verified-ahead-of-launch/",
-      "published": "Fri, 20 Nov 2026 10:21:44 +0000",
-      "snippet": "Rayman Legends Retold arrives December 4th, and you'll be good to go on basically any Linux platform like Steam Deck and Steam Machine where it's now Verified.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1740166559id30241gol.webp\" alt /></p><p>Read the full article on <"
-    },
-    {
-      "title": "Run your own mercenary company in the new demo of MetalMercs",
-      "link": "https://www.gamingonlinux.com/2026/11/run-your-own-mercenary-company-in-the-new-demo-of-metalmercs/",
-      "published": "Fri, 20 Nov 2026 09:25:27 +0000",
-      "snippet": "MetalMercs is a real-time-with-pause mech strategy game where you run a mercenary company.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/540400897id30240gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/run-your-own-mercenary-c"
     }
   ]
 }
