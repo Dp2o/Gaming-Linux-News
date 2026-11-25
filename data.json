@@ -2,9 +2,21 @@
   "_meta": {
     "license": "CC-BY-4.0",
     "source": "Linux Gaming Feed",
-    "updated_at": "2026-11-25T14:08:22.783108"
+    "updated_at": "2026-11-25T23:06:07.859887"
   },
   "data": [
+    {
+      "title": "The next-generation Linux gaming display MangoHud v0.8.5-rc1 first test build is out",
+      "link": "https://www.gamingonlinux.com/2026/11/the-next-generation-linux-gaming-display-mangohud-v0-8-5-rc1-first-test-build-is-out/",
+      "published": "Wed, 25 Nov 2026 16:33:17 +0000",
+      "snippet": "MangoHud is an invaluable tool for Linux gaming, giving you a fully-featured display of system and game performance stats. A new next-gen version is here.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/653895782id30273gol.webp\" alt /></p><p>Read the full article on <a href"
+    },
+    {
+      "title": "GOG Black Friday sale is live, plus multiple Lara Croft games enter the GOG Preservation Program",
+      "link": "https://www.gamingonlinux.com/2026/11/gog-black-friday-sale-is-live-plus-multiple-lara-croft-games-enter-the-gog-preservation-program/",
+      "published": "Wed, 25 Nov 2026 14:49:18 +0000",
+      "snippet": "GOG just announced their big Black Friday sale, along with three adventures with Lara Croft arriving on GOG with two in the GOG Preservation Program.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/177843040id30274gol.webp\" alt /></p><p>Read the full article on <a href=\"htt"
+    },
     {
       "title": "Terraria 1.4.6 is out with 'Crossplay Phase One'",
       "link": "https://www.gamingonlinux.com/2026/11/terraria-1-4-6-is-out-with-crossplay-phase-one/",
@@ -82,18 +94,6 @@
       "link": "https://www.gamingonlinux.com/2026/11/your-futile-journey-into-the-sunset-continues-in-race-the-sun-2/",
       "published": "Tue, 24 Nov 2026 09:05:11 +0000",
       "snippet": "The classic casual racer returns, Race The Sun 2 has been announced by Flippfly LLC.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/23790830id30259gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/11/your-futile-journey-into-the-su"
-    },
-    {
-      "title": "RimWorld meets Dungeon Keeper in the new release of Malignus",
-      "link": "https://www.gamingonlinux.com/2026/11/rimworld-meets-dungeon-keeper-in-the-new-release-of-malignus/",
-      "published": "Tue, 24 Nov 2026 08:43:03 +0000",
-      "snippet": "Malignus is an Early Access dungeon colony sim where you play the dungeon itself, that blends elements of RimWorld and Dungeon Keeper together.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/894864472id30258gol.webp\" alt /></p><p>Read the full article on <a href=\"https://w"
-    },
-    {
-      "title": "Fable: Return to Albion is an open source Godot remake of Fable II and Fable III",
-      "link": "https://www.gamingonlinux.com/2026/11/fable-return-to-albion-is-an-open-source-godot-remake-of-fable-ii-and-fable-iii/",
-      "published": "Tue, 24 Nov 2026 08:35:37 +0000",
-      "snippet": "Love the classics Fable II and Fable III? You may want to keep an eye on the Fable: Return to Albion remake project made with Godot.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/99253019id30257gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonl"
     }
   ]
 }
